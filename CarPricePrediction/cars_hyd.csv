@@ -1,0 +1,755 @@
+index,year,kms,owners,vehicle,manual,location,amount,brand,mileage,engine,maxPower,maxPowerRPM,seats,Color,GearBox,driveType,SteeringType,FrontBrkType,RearBrkType,TopSpeed,acceleration,Doors,no_cyclinders,no_valves,valveConfig,fuelSupply
+1,2007,"71,000 kms",First Owner,Petrol,Manual,Hyderabad,"80,000*",Maruti,16.1 kmpl,796 CC,37bhp,5000rpm,4,Silver,4 Speed,FWD,,Disc,Drum,144km/hr,21 Seconds,4,3,2,SOHC,MPFI
+2,2009,"69,000 kms",Second Owner,Diesel,Manual,Hyderabad,"98,000*",Ford,13.8 kmpl,1399 CC,68bhp,4000rpm,5,,5 Speed,FWD,,,,,,4,4,2,DOHC,SEFI
+3,2008,"86,000 kms",First Owner,Petrol,Manual,Hyderabad,"99,000*",Maruti,16.1 kmpl,796 CC,37bhp,5000rpm,4,Silver,4 Speed,FWD,,,,,21 Seconds,4,3,2,SOHC,MPFI
+4,2007,"1,20,000 kms",First Owner,Diesel,Manual,Hyderabad,1 Lakh*,Tata,17.2 kmpl,1396 CC,53.5,"5,500 (PS",5,,5 Speed,FWD,,,,,,,4,2,SOHC,MPFI
+5,2004,"43,664 kms",First Owner,Petrol,Manual,Hyderabad,1 Lakh*,Ford,13.8 kmpl,1299 CC,70 ," 5,500 (PS",5,Red,5 Speed,,,,,,,4,4,2,SOHC,SEFI
+6,2008,"1,55,000 kms",Second Owner,Diesel,Manual,Hyderabad,1.1 Lakh*,Tata,19.09 kmpl,1396 CC,69bhp,4500rpm,5,Grey,5 Speed,FWD,,,,,,4,4,0,,MPFI
+7,2008,"49,000 kms",First Owner,Petrol,Manual,Hyderabad,1.1 Lakh*,Maruti,16.1 kmpl,796 CC,37bhp,5000rpm,4,Blue,4 Speed,FWD,,,,,21 Seconds,4,3,2,SOHC,MPFI
+8,2016,"1,20,000 kms",Second Owner,Diesel,Manual,Hyderabad,1.3 Lakh*,Tata,25.0 kmpl,1396 CC,69bhp,4000rpm,5,Silver,5 Speed,,,,,,,5,4,4,DOHC,CRDi
+9,2006,"90,000 kms",Second Owner,Petrol,Manual,Hyderabad,1.4 Lakh*,Ford,15.3 kmpl,1596 CC,101 ," 6,500 (PS",5,Golden,5 Speed,,,,,,,4,4,4,DOHC,SEFI
+10,2010,"1,80,108 kms",First Owner,Diesel,Manual,Hyderabad,1.4 Lakh*,Tata,17.88 kmpl,1405 CC,48.21bhp,5000rpm,5,Silver,5 Speed,,,,,,,5,4,4,DOHC,Direct Injection
+11,2007,"73,000 kms",Second Owner,Petrol,Manual,Hyderabad,1.4 Lakh*,Hyundai,0.0 kmpl,1086 CC,null bhp,,5,Silver,,,Power,,,,,,,,null,null
+12,2005,"98,246 kms",First Owner,Petrol,Manual,Hyderabad,1.45 Lakh*,Ford,14.2 kmpl,1597 CC,92,5500(PS,5,Black,5 Speed,,,,Drum,157 kmph,14.5 seconds,4,4,2,SOHC,SEFI
+13,2007,"82,000 kms",Second Owner,Diesel,Manual,Hyderabad,1.45 Lakh*,Chevrolet,16.52 kmpl,1991 CC,123.7bhp,3800rpm,5,Diamond,5 Speed,,,Ventilated Disc,Disc,189km/hr,11.1 seconds,4,4,4,SOHC,CRDI
+14,2005,"80,000 kms",First Owner,Petrol,Manual,Hyderabad,1.55 Lakh*,OpelCorsa,13.8 kmpl,1589 CC,93 PS , 5600 rpm,5,Red,5 Speed,,,,,170 Km/Hour,12.4 seconds,4,4,0,,
+15,2008,"59,000 kms",First Owner,Petrol,Manual,Hyderabad,1.6 Lakh*,Chevrolet,18.0 kmpl,995 CC,62bhp,5400rpm,5,Grey,5 Speed,,Power,Disc,Self-Adjusting Drum,161km/hr,14.8 seconds,5,4,2,SOHC,SEFI
+16,2009,"1,42,608 kms",First Owner,Diesel,Manual,Hyderabad,1.65 Lakh*,Ford,17.8 kmpl,1399 CC,68 ," 4,000 (PS",5,Grey,5 Speed,FWD,,Ventilated Disc,Self-Adjusting Drum,156 kmph,17.6 seconds,4,4,2,SOHC,CRDI
+17,2011,"78,000 kms",First Owner,Diesel,Manual,Hyderabad,1.65 Lakh*,Tata,25.0 kmpl,1396 CC,69.01bhp,4000rpm,5,Silver,5 Speed,,,,Drum,154 Kmph,16.5 Seconds,4,4,4,,CRDi
+18,2006,"83,000 kms",First Owner,LPG,Manual,Hyderabad,1.65 Lakh*,Maruti,17.3 km/kg,1061 CC,57.5,"6,000 (PS",5,Blue,5 Speed,,Power,Disc,Drum,154 kmph,16.6 seconds,5,4,4,,MPFI
+19,2014,"75,695 kms",First Owner,Petrol,Manual,Hyderabad,1.65 Lakh*,Tata,25.4 kmpl,624 CC,37.5bhp,5500+/-250rpm,4,Violet,4 Speed,,,,,105km/hr,12.6 Seconds,4,2,2,SOHC,MPFI
+20,2008,"76,000 kms",Second Owner,CNG,Manual,Hyderabad,1.7 Lakh*,Maruti,26.83 km/kg,796 CC,38.4bhp,6200rpm,5,Silver,Five Speed Manual Transmission,Two Wheel Drive,,Disc,Drum,137km/hr,18.2 seconds,5,3,4,SOHC,
+21,2008,"68,971 kms",First Owner,Petrol,Manual,Hyderabad,1.75 Lakh*,Maruti,19.7 kmpl,796 CC,46.3bhp,6200rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,137km/hr,17.7 seconds,5,3,4,SOHC,MPFI
+22,2006,"71,730 kms",First Owner,Petrol,Manual,Hyderabad,1.75 Lakh*,Hyundai,17.0 kmpl,1086 CC,null,,5,Black,,,Power,,,,,5,4,4,null,null
+23,2006,"75,040 kms",First Owner,Petrol,Manual,Hyderabad,1.8 Lakh*,Hyundai,0.0 kmpl,999 CC,null,,5,Red,,,Power,,,,,,4,4,null,null
+24,2009,"76,000 kms",Second Owner,Petrol,Manual,Hyderabad,1.8 Lakh*,Maruti,19.7 kmpl,796 CC,46.3bhp,6200rpm,5,Silver,5 Speed,FWD,,Disc,Drum,137km/hr,17.7 seconds,5,3,4,SOHC,MPFI
+25,2007,"83,132 kms",First Owner,Petrol,Manual,Hyderabad,1.9 Lakh*,Hyundai,,,,,,,,,,,,,,,,,,
+26,2008,"75,751 kms",First Owner,LPG,Manual,Hyderabad,1.95 Lakh*,Maruti,17.3 km/kg,1061 CC,57.5,"6,000 (PS",5,White,5 Speed,,Power,Disc,Drum,154 kmph,16.6 seconds,5,4,4,,MPFI
+27,2009,"1,78,000 kms",Second Owner,Diesel,Manual,Hyderabad,1.95 Lakh*,Mahindra,14.0 kmpl,2498 CC,112bhp at 3800 rpm,,7,,5 Speed,2 WD,,,Drum,,,5,4,4,,CRDI
+28,2014,"39,000 kms",First Owner,Petrol,Manual,Hyderabad,1.95 Lakh*,Tata,25.4 kmpl,624 CC,37.5bhp,5500+/-250rpm,4,royal gold,4 Speed,,,,Drum,105km/hr,12.6 Seconds,4,2,2,SOHC,MPFI
+29,2008,"90,756 kms",First Owner,Diesel,Manual,Hyderabad,1.95 Lakh*,Hyundai,17.1 kmpl,1493 CC,110 ," 4,000 (PS",5,White,5 Speed,,,,Drum,173 kmph,11.5 seconds,4,4,4,DOHC,CRDI
+30,2012,"80,000 kms",Second Owner,Petrol,Manual,Hyderabad,2 Lakh*,Chevrolet,18.6 kmpl,1199 CC,79.4bhp,6200rpm,5,White,5 Speed,,Power,Disc,Drum,,,5,4,4,DOHC,MPFI
+31,2011,"70,000 kms",Second Owner,Petrol,Manual,Hyderabad,2 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Brown,5 Speed,FWD,,Ventilated Disc,Drum,,13.3 Seconds,5,3,4,,
+32,2008,"45,617 kms",First Owner,Petrol,Manual,Hyderabad,2.1 Lakh*,Hyundai,0.0 kmpl,1086 CC,62bhp,5500rpm,5,Silver,5 Speed,,Power,Ventilated Disc,Drum,141km/hr,16.2 seconds,5,4,3,SOHC,MPFI
+33,2005,"1,00,283 kms",First Owner,Petrol,Manual,Hyderabad,2.1 Lakh*,Maruti,16.1 kmpl,1298 CC,88.2,6000 (PS,5,Blue,5 Speed,,Power,Ventilated Disc,Drum,160 kmph,12.29 seconds,5,4,4,,MPFI
+34,2016,"26,000 kms",First Owner,Petrol,Manual,Hyderabad,2.1 Lakh*,Maruti,14.0 kmpl,796 CC,35 bhp , 5000 rpm,5,Silver,4 Speed,RWD,,,Drum,95 kmph,,5,3,2,,
+35,2011,"91,000 kms",First Owner,Diesel,Manual,Hyderabad,2.1 Lakh*,Chevrolet,25.44 kmpl,936 CC,57.6bhp,4000rpm,5,Silver,5 Speed,,,Disc,Drum,,,5,3,4,DOHC,MPFI
+36,2007,"86,281 kms",First Owner,Diesel,Manual,Hyderabad,2.2 Lakh*,Hyundai,16.8 kmpl,1493 CC,110 ," 4,000 (PS",5,Silver,5 Speed,,,Ventilated Disc,Disc & Drum,185 kmph,11.2 seconds,4,4,4,DOHC,CRDI
+37,2008,"72,156 kms",First Owner,LPG,Manual,Hyderabad,2.2 Lakh*,Maruti,26.2 km/kg,998 CC,58.2bhp,6200rpm,5,Black,5 Speed,FWD,,,Drum,,,4,3,4,null,MPFI
+38,2009,"96,000 kms",First Owner,Diesel,Manual,Hyderabad,2.25 Lakh*,Ford,17.8 kmpl,1399 CC,68 ," 4,000 (PS",5,White,5 Speed,FWD,Power,Ventilated Disc,Self-Adjusting Drum,156 kmph,17.6 seconds,4,4,2,SOHC,CRDI
+39,2011,"60,101 kms",Test Drive Car,Petrol,Manual,Hyderabad,2.25 Lakh*,Maruti,19.0 kmpl,998 CC,66.1bhp,6200rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,,,5,3,4,,MPFI
+40,2008,"78,000 kms",First Owner,Petrol,Manual,Hyderabad,2.25 Lakh*,Hyundai,19.81 kmpl,1086 CC,68.05bhp,5500rpm,5,Silver,5 Speed,,,Ventilated Disc,Drum,165 Kmph,14.3 Seconds,5,4,3,SOHC,MPFI
+41,2008,"65,000 kms",First Owner,Petrol,Manual,Hyderabad,2.25 Lakh*,Maruti,21.79 kmpl,998 CC,67.05bhp,5500rpm,5,Red,5 Speed,,,Disc,Drum,,18.6 Seconds,5,3,4,DOHC,MPFI
+42,2009,"82,175 kms",First Owner,Petrol,Manual,Hyderabad,2.27 Lakh*,Maruti,19.0 kmpl,998 CC,66.1bhp,6200rpm,5,Silver,5 Speed,FWD,,Ventilated Disc,Drum,,,5,3,4,,MPFI
+43,2010,"43,000 kms",Test Drive Car,Petrol,Manual,Hyderabad,2.3 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Maroon,5 Speed,FWD,,,Drum,,13.3 Seconds,5,3,4,,
+44,2011,"71,226 kms",First Owner,Petrol,Manual,Hyderabad,2.3 Lakh*,Maruti,19.7 kmpl,796 CC,46.3bhp,6200rpm,5,Maroon,5 Speed,FWD,,Disc,Drum,137km/hr,17.7 seconds,5,3,4,SOHC,MPFI
+45,2013,"1,10,000 kms",Third Owner,Petrol,Manual,Hyderabad,2.3 Lakh*,Tata,13.7 kmpl,1368 CC,88.8bhp,6000rpm,5,,5 Speed,FWD,Power,Ventilated Disc,Drum,,,4,4,4,,MPFI
+46,2013,"95,000 kms",First Owner,Diesel,Manual,Hyderabad,2.3 Lakh*,Chevrolet,25.44 kmpl,936 CC,57.6bhp,4000rpm,5,White,5 Speed,FWD,,Disc,Drum,,,5,3,4,DOHC,MPFI
+47,2012,"79,865 kms",First Owner,Petrol,Manual,Hyderabad,2.32 Lakh*,Maruti,19.7 kmpl,796 CC,46.3bhp,6200rpm,5,Red,5 Speed,FWD,,Disc,Drum,137km/hr,17.7 seconds,5,3,4,SOHC,MPFI
+48,2008,"73,256 kms",First Owner,Petrol,Manual,Hyderabad,2.35 Lakh*,Maruti,18.9 kmpl,998 CC,67.1bhp,6200rpm,5,Golden,5 Speed,,,Ventilated Disc,Drum,,,4,3,4,,MPFI
+49,2008,"62,000 kms",First Owner,Petrol,Manual,Hyderabad,2.35 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+50,2008,"89,608 kms",First Owner,LPG,Manual,Hyderabad,2.35 Lakh*,Maruti,26.2 km/kg,998 CC,58.2bhp,6200rpm,5,Red,5 Speed,FWD,,Ventilated Disc,Drum,,,4,3,4,null,MPFI
+51,2012,"48,806 kms",First Owner,Petrol,Manual,Hyderabad,2.35 Lakh*,Maruti,19.7 kmpl,796 CC,46.3bhp,6200rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,137km/hr,17.7 seconds,5,3,4,SOHC,MPFI
+52,2011,"57,000 kms",First Owner,Diesel,Manual,Hyderabad,2.35 Lakh*,Ford,20.0 kmpl,1399 CC,68bhp,4000rpm,5,Black,5 Speed,Front Wheel Drive,,Ventilated Discs,Drum,148km/hr,14.8 Seconds,5,4,4,SOHC,Common Rail
+53,2011,"92,411 kms",First Owner,Petrol,Manual,Hyderabad,2.38 Lakh*,Maruti,19.0 kmpl,998 CC,66.1bhp,6200rpm,5,Silver,5 Speed,FWD,,Ventilated Disc,Drum,,,5,3,4,,MPFI
+54,2010,"1,10,000 kms",Second Owner,Petrol,Manual,Hyderabad,2.4 Lakh*,Hyundai,16.2 kmpl,1599 CC,103.2 PS at 5500 RPM,,5,,Five Speed Manual Transmission,Two Wheel Drive,Power,Disc,Drum,195 kmph,12.07 seconds,4,4,4,,
+55,2013,"52,189 kms",First Owner,Petrol,Manual,Hyderabad,2.41 Lakh*,Maruti,16.8 kmpl,796 CC,34.2bhp,5000rpm,8,Silver,4 Speed,,,Disc,Drum,126 Kmph,20 Seconds,5,3,2,SOHC,MPFI
+56,2011,"97,804 kms",First Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Hyundai,22.0 kmpl,814 CC,55 Bhp , 5500 rpm,5,Blue,5 Manual,RWD,,,,,,4,3,3,SOHC,
+57,2016,"1,21,845 kms",First Owner,Diesel,Manual,Hyderabad,2.45 Lakh*,Chevrolet,18.2 kmpl,1248 CC,73.74bhp,4000rpm,8,Grey,5 Speed,,Power,Disc,Drum,160 Kmph,15 Seconds,5,4,4,DOHC,Direct Injection
+58,2008,"82,000 kms",First Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Maruti,21.79 kmpl,998 CC,67.05bhp,5500rpm,5,Red,5 Speed,,,Disc,Drum,,18.6 Seconds,5,3,4,DOHC,MPFI
+59,2013,"54,000 kms",First Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Maroon,5 Speed,FWD,,,,,13.3 Seconds,5,3,4,,
+60,2013,"55,000 kms",First Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Maruti,22.74 kmpl,796 CC,47.3bhp,6000rpm,5,Grey,5 Speed,,,Solid Disc,Drum,140 kmph,19 Seconds,5,3,4,DOHC,MPFi
+61,2010,"1,10,000 kms",Second Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Hyundai,16.2 kmpl,1599 CC,103.2 PS at 5500 RPM,,5,White,Five Speed Manual Transmission,Two Wheel Drive,,Disc,Drum,195 kmph,12.07 seconds,4,4,4,,
+62,2009,"72,000 kms",First Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Maruti,18.9 kmpl,1061 CC,67bhp,6200rpm,5,Silver,5 Speed,FWD,,,Drum,,,4,3,4,null,MPFI
+63,2016,"50,000 kms",Second Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Hyundai,21.1 kmpl,814 CC,55.2bhp,5500rpm,5,,5 Speed,FWD,,,Drum,135 Kmph,19 Seconds,5,3,3,SOHC,MPFI
+64,2008,"45,000 kms",First Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Hyundai,19.81 kmpl,1086 CC,68.05bhp,5500rpm,5,Red,5 Speed,,,,Drum,165 Kmph,14.3 Seconds,5,4,3,SOHC,MPFI
+65,2007,"63,251 kms",First Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Hyundai,19.81 kmpl,1086 CC,68.05bhp,5500rpm,5,Red,5 Speed,,Power,Ventilated Disc,Drum,165 Kmph,14.3 Seconds,5,4,3,SOHC,MPFI
+66,2005,"1,74,000 kms",First Owner,Petrol,Manual,Hyderabad,2.45 Lakh*,Toyota,13.4 kmpl,1794 CC,125,"6,000 (PS",5,White,5 Speed,,,,,191.7 kmph,9.89 seconds,4,4,4,DOHC,EFI (Electronic Fuel Injection)
+67,2007,"3,02,000 kms",First Owner,Diesel,Manual,Hyderabad,2.45 Lakh*,Skoda,18.7 kmpl,1896 CC,66(90) / 4000,,5,Grey,5 Speed,FWD,Power,Disc,Drum,188 kmph,13.5 Second,4,4,4,DOHC,Direct Injection
+68,2010,"88,290 kms",First Owner,Petrol,Manual,Hyderabad,2.48 Lakh*,Hyundai,17.92 kmpl,1086 CC,62.1bhp,5500rpm,5,Black,5 Speed,FWD,Power,Ventilated Disc,Drum,,,5,3,4,SOHC,MPFI
+69,2009,"1,20,000 kms",Second Owner,Diesel,Manual,Hyderabad,2.5 Lakh*,Mahindra,13.6 kmpl,2523 CC,63 HP at 3200 rpm,,7,Grey,5 Speed,2WD,Power,Disc,Drum,117 kmph,30.3 seconds,5,4,4,,Direct Injection
+70,2007,"76,000 kms",First Owner,Petrol,Automatic,Hyderabad,2.5 Lakh*,Hyundai,0.0 kmpl,999 CC,null,,5,Silver,,,Power,,,,,5,4,4,null,null
+71,2011,"62,000 kms",First Owner,Diesel,Manual,Hyderabad,2.5 Lakh*,Fiat,20.3 kmpl,1248 CC,75bhp,4000rpm,5,Black,5-Speed,FWD,Power,Ventilated Disc,Drum,,,5,4,4,DOHC,Direct Injection
+72,2007,"1,10,000 kms",First Owner,Diesel,Manual,Hyderabad,2.5 Lakh*,Skoda,18.7 kmpl,1896 CC,66(90) / 4000,,5,beige,5 Speed,FWD,Power,Disc,Drum,188 kmph,13.5 Second,4,4,4,DOHC,Direct Injection
+73,2010,"39,292 kms",First Owner,Petrol,Manual,Hyderabad,2.5 Lakh*,Maruti,20.92 kmpl,998 CC,67.1 bhp,,5,Silver,5 Speed,FWD,,,,,,,,,,
+74,2008,"56,321 kms",First Owner,Petrol,Manual,Hyderabad,2.5 Lakh*,Hyundai,16.0 kmpl,1086 CC,66.7 ," 5,500 (PS",5,Red,5 Speed,,Power,Disc,Drum,,,5,4,0,,
+75,2008,"45,000 kms",First Owner,Petrol,Manual,Hyderabad,2.5 Lakh*,Hyundai,19.81 kmpl,1086 CC,68.05bhp,5500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,165 Kmph,14.3 Seconds,5,4,3,SOHC,MPFI
+76,2011,"45,000 kms",First Owner,Petrol,Manual,Hyderabad,2.55 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Golden,5 Speed,FWD,Power,Ventilated Disc,Drum,,13.3 Seconds,5,3,4,,
+77,2013,"1,00,000 kms",Third Owner,LPG,Manual,Hyderabad,2.55 Lakh*,Hyundai,21.1 km/kg,814 CC,55.2bhp,5500rpm,5,,5 Speed,FWD,Power,Disc,Drum,135 Kmph,19 Seconds,5,3,3,SOHC,MPFI+LPG
+78,2010,"87,147 kms",First Owner,Petrol,Manual,Hyderabad,2.59 Lakh*,Ford,15.6 kmpl,1196 CC,70bhp,6250rpm,5,Chill,5 Speed,Front Wheel Drive,,,,,,5,4,4,DOHC,SEFI
+79,2012,"71,119 kms",First Owner,Diesel,Manual,Hyderabad,2.6 Lakh*,Ford,20.0 kmpl,1399 CC,68.05bhp,4000rpm,5,Grey,5 Speed,,,,,,,,4,2,SOHC,Common Rail
+80,2011,"34,000 kms",First Owner,Petrol,Manual,Hyderabad,2.6 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Golden,5 Speed,FWD,,,,,,,3,4,,
+81,2010,"81,168 kms",First Owner,Diesel,Manual,Hyderabad,2.64 Lakh*,Ford,20.0 kmpl,1399 CC,68.05bhp,4000rpm,5,Black,5 Speed,,,,,,,,4,2,SOHC,Common Rail
+82,2012,"62,676 kms",First Owner,Petrol,Manual,Hyderabad,2.64 Lakh*,Maruti,19.7 kmpl,796 CC,46.3 bhp,,5,Silver,5 Speed,FWD,,,,,,,,,,
+83,2009,"91,815 kms",First Owner,Petrol,Manual,Hyderabad,2.65 Lakh*,Hyundai,17.01 kmpl,1591 CC,121.3bhp,6300rpm,5,Gold,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+84,2011,"65,000 kms",First Owner,Petrol,Manual,Hyderabad,2.65 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,White,5 Speed,FWD,,,,,13.3 Seconds,5,3,4,,
+85,2008,"70,000 kms",Third Owner,Petrol,Automatic,Hyderabad,2.7 Lakh*,Hyundai,11.0 kmpl,2359 CC,165 ," 5,800 (PS",5,,4 Speed,,,,,,,,4,4,DOHC,MPFI
+86,2012,"55,230 kms",First Owner,Petrol,Manual,Hyderabad,2.74 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Silver,5 Speed,FWD,,,,,,,3,4,,
+87,2009,"1,20,000 kms",Second Owner,Diesel,Manual,Hyderabad,2.5 Lakh*,Mahindra,13.6 kmpl,2523 CC,63 HP at 3200 rpm,,7,Grey,5 Speed,2WD,,,,,,5,4,4,,Direct Injection
+88,2007,"76,000 kms",First Owner,Petrol,Automatic,Hyderabad,2.5 Lakh*,Hyundai,0.0 kmpl,999 CC,null bhp,,5,Silver,,,Power,,,,,,,,null,null
+89,2011,"62,000 kms",First Owner,Diesel,Manual,Hyderabad,2.5 Lakh*,Fiat,20.3 kmpl,1248 CC,75bhp,4000rpm,5,Black,5-Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+90,2007,"1,10,000 kms",First Owner,Diesel,Manual,Hyderabad,2.5 Lakh*,Skoda,18.7 kmpl,1896 CC,66(90) / 4000,,5,beige,5 Speed,,,,,,,4,4,4,DOHC,Direct Injection
+91,2010,"39,292 kms",First Owner,Petrol,Manual,Hyderabad,2.5 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Silver,5 Speed,FWD,,,,,,5,3,4,,
+92,2008,"56,321 kms",First Owner,Petrol,Manual,Hyderabad,2.5 Lakh*,Hyundai,16.0 kmpl,1086 CC,66.7 ," 5,500 (PS",5,Red,5 Speed,,,,,,,,4,0,,
+93,2008,"45,000 kms",First Owner,Petrol,Manual,Hyderabad,2.5 Lakh*,Hyundai,19.81 kmpl,1086 CC,68.05bhp,5500rpm,5,White,5 Speed,,,,,,,5,4,3,SOHC,MPFI
+94,2011,"45,000 kms",First Owner,Petrol,Manual,Hyderabad,2.55 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Golden,5 Speed,FWD,,,,,,,3,4,,
+95,2013,"1,00,000 kms",Third Owner,LPG,Manual,Hyderabad,2.55 Lakh*,Hyundai,21.1 km/kg,814 CC,55.2bhp,5500rpm,5,,5 Speed,FWD,,,,,,5,3,3,SOHC,MPFI+LPG
+96,2010,"87,147 kms",First Owner,Petrol,Manual,Hyderabad,2.59 Lakh*,Ford,15.6 kmpl,1196 CC,70bhp,6250rpm,5,Chill,5 Speed,Front Wheel Drive,,,,,,5,4,4,DOHC,SEFI
+97,2012,"71,119 kms",First Owner,Diesel,Manual,Hyderabad,2.6 Lakh*,Ford,20.0 kmpl,1399 CC,68.05bhp,4000rpm,5,Grey,5 Speed,,,,,,,,4,2,SOHC,Common Rail
+98,2011,"34,000 kms",First Owner,Petrol,Manual,Hyderabad,2.6 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Golden,5 Speed,FWD,,,,,,,3,4,,
+99,2010,"81,168 kms",First Owner,Diesel,Manual,Hyderabad,2.64 Lakh*,Ford,20.0 kmpl,1399 CC,68.05 bhp,,5,Black,5 Speed,,,,,,,,,,,
+100,2012,"62,676 kms",First Owner,Petrol,Manual,Hyderabad,2.64 Lakh*,Maruti,19.7 kmpl,796 CC,46.3bhp,6200rpm,5,Silver,5 Speed,FWD,,,,,,5,3,4,SOHC,MPFI
+101,2009,"91,815 kms",First Owner,Petrol,Manual,Hyderabad,2.65 Lakh*,Hyundai,17.01 kmpl,1591 CC,121.3bhp,6300rpm,5,Gold,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+102,2011,"65,000 kms",First Owner,Petrol,Manual,Hyderabad,2.65 Lakh*,Maruti,20.92 kmpl,998 CC,67.1 bhp,,5,White,5 Speed,FWD,,,,,,,3,4,,
+103,2008,"70,000 kms",Third Owner,Petrol,Automatic,Hyderabad,2.7 Lakh*,Hyundai,11.0 kmpl,2359 CC,165 ," 5,800 (PS",5,,4 Speed,,,,,,,4,4,4,DOHC,MPFI
+104,2012,"55,230 kms",First Owner,Petrol,Manual,Hyderabad,2.74 Lakh*,Maruti,20.92 kmpl,998 CC,67.1bhp,6200rpm,5,Silver,5 Speed,FWD,,,,,,5,3,4,,
+105,2008,"86,000 kms",First Owner,Petrol,Manual,Hyderabad,2.75 Lakh*,Maruti,16.1 kmpl,1298 CC,88.2,6000 (PS,5,Silver,5 Speed,,,,,,,5,4,4,,MPFI
+106,2008,"86,000 kms",First Owner,Petrol,Manual,Hyderabad,2.75 Lakh*,Maruti,,,,,,,,,,,,,,,,,,
+107,2013,"86,000 kms",First Owner,Diesel,Manual,Hyderabad,2.75 Lakh*,Ford,20.0 kmpl,1399 CC,68.1bhp,4000rpm,5,Grey,5 Speed,FWD,,,,,,,4,2,SOHC,Common Rail
+108,2006,"1,11,000 kms",First Owner,Diesel,Manual,Hyderabad,2.75 Lakh*,Hyundai,16.8 kmpl,1493 CC,110 ," 4,000 (PS",5,Black,5 Speed,,,Ventilated Disc,Disc & Drum,185 kmph,11.2 seconds,4,4,4,DOHC,CRDI
+109,2011,"78,000 kms",First Owner,LPG,Manual,Hyderabad,2.75 Lakh*,Hyundai,13.45 km/kg,1086 CC,62.1bhp,5500rpm,5,Maroon,5 Speed,FWD,,,,,,,3,4,SOHC,MPFI
+110,2008,"93,000 kms",First Owner,Petrol,Manual,Hyderabad,2.75 Lakh*,Honda,17.7 kmpl,1497 CC,78 ," 5,500 (PS",5,beige,5 Speed,,,,,,,4,4,2,iDSI,PGM-FI (Programmed Fuel Injection)
+111,2007,"1,33,000 kms",First Owner,Diesel,Automatic,Hyderabad,2.8 Lakh*,Skoda,11.9 kmpl,2496 CC,163.2,"4,000 (PS",5,Black,5 Speed,,,,,217 kmph,10.3 seconds,4,6,4,DOHC,Direct Injection
+112,2011,"81,843 kms",First Owner,Diesel,Manual,Hyderabad,2.85 Lakh*,Ford,20.0 kmpl,1399 CC,68bhp,4000rpm,5,White,5 Speed,Front Wheel Drive,,,,,,5,4,4,SOHC,Common Rail
+113,2010,"70,000 kms",First Owner,Diesel,Manual,Hyderabad,2.85 Lakh*,Tata,21.12 kmpl,1248 CC,88.8bhp,4000rpm,5,White,5 Speed,,,,,,,4,4,4,,CRDI
+114,2008,"73,000 kms",First Owner,Petrol,Manual,Hyderabad,2.85 Lakh*,Hyundai,19.2 kmpl,1197 CC,80 ," 5,200 (PS",5,Black,4 Speed,,,,,,,,4,4,DOHC,MPFI
+115,2010,"88,579 kms",First Owner,Petrol,Manual,Hyderabad,2.85 Lakh*,Hyundai,19.81 kmpl,1086 CC,68.05bhp,5500rpm,5,Silver,5 Speed,,,,,,,5,4,3,SOHC,MPFI
+116,2009,"53,214 kms",First Owner,Petrol,Automatic,Hyderabad,2.85 Lakh*,Hyundai,19.2 kmpl,1197 CC,80 bhp,,5,Black,4 Speed,,,,,,,,4,4,DOHC,MPFI
+117,2013,"98,000 kms",First Owner,Diesel,Manual,Hyderabad,2.85 Lakh*,Ford,20.0 kmpl,1399 CC,68bhp,4000rpm,5,Silver,5 Speed,Front Wheel Drive,,,,,,5,4,4,SOHC,Common Rail
+118,2007,"80,476 kms",First Owner,Petrol,Manual,Hyderabad,2.9 Lakh*,Maruti,,,,,,,,,,,,,,,,,,
+119,2011,"1,26,000 kms",Second Owner,Diesel,Manual,Hyderabad,2.9 Lakh*,Volkswagen,20.54 kmpl,1598 CC,103.6bhp,4400rpm,5,Silver,5 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+120,2010,"1,20,000 kms",Second Owner,Diesel,Manual,Hyderabad,2.9 Lakh*,Maruti,17.8 kmpl,1248 CC,75 PS , 2000 rpm,5,,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+121,2013,"59,000 kms",First Owner,Petrol,Manual,Hyderabad,2.9 Lakh*,Maruti,22.74 kmpl,796 CC,47.3bhp,6000rpm,5,Grey,5 Speed,,,,Drum,140 kmph,19 Seconds,5,3,4,DOHC,MPFi
+122,2011,"42,413 kms",First Owner,Petrol,Manual,Hyderabad,2.91 Lakh*,Ford,15.6 kmpl,1196 CC,70bhp,6250rpm,5,Red,5 Speed,Front Wheel Drive,,,,,,5,4,4,DOHC,SEFI
+123,2014,"65,000 kms",First Owner,Petrol,Manual,Hyderabad,2.95 Lakh*,Hyundai,20.3 kmpl,998 CC,68.05bhp,6200rpm,5,Grey,5 Speed,,Power,Disc,Drum,140 Kmph,15 Seconds,5,3,4,SOHC,MPFI
+124,2010,"1,20,000 kms",Second Owner,Diesel,Manual,Hyderabad,2.95 Lakh*,Maruti,17.8 kmpl,1248 CC,null bhp,,5,Grey,,,Power,,,,,,,4,null,null
+125,2010,"56,521 kms",First Owner,Petrol,Manual,Hyderabad,2.95 Lakh*,Maruti,18.5 kmpl,1197 CC,85.80bhp,6000rpm,5,Maroon,5 Speed,,,,,,,,4,4,DOHC,MPFI
+126,2009,"83,521 kms",First Owner,Petrol,Manual,Hyderabad,2.95 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9 bhp,,5,Maroon,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+127,2011,"62,200 kms",First Owner,Petrol,Manual,Hyderabad,2.95 Lakh*,Ford,15.6 kmpl,1196 CC,70bhp,6250rpm,5,White,5 Speed,Front Wheel Drive,,,,,,5,4,4,DOHC,SEFI
+128,2014,"69,000 kms",First Owner,Petrol,Manual,Hyderabad,2.95 Lakh*,Hyundai,21.1 kmpl,814 CC,55.2 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+129,2016,"20,492 kms",First Owner,Petrol,Manual,Hyderabad,2.95 Lakh*,Renault,20.71 kmpl,799 CC,53.26bhp,5600rpm,5,Brown,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+130,2007,"1,06,000 kms",First Owner,Diesel,Manual,Hyderabad,2.99 Lakh*,Maruti,17.8 kmpl,1248 CC,null bhp,,5,Red,,,Power,,,,,,,,,
+131,2017,"12,805 kms",First Owner,Petrol,Manual,Hyderabad,3.02 Lakh*,Datsun,22.5 kmpl,999 CC,67bhp,5500rpm,5,Silver,5-Speed,,,,,,,,3,4,DOHC,MPFi
+132,2008,"71,447 kms",First Owner,Petrol,Manual,Hyderabad,3.02 Lakh*,Honda,17.7 kmpl,1497 CC,78 ," 5,500 (PS",5,Silver,5 Speed,,,,,,13.5 seconds,4,4,2,iDSI,PGM-FI (Programmed Fuel Injection)
+133,2012,"92,940 kms",First Owner,Petrol,Automatic,Hyderabad,3.03 Lakh*,Maruti,16.98 kmpl,998 CC,66.1bhp,6200rpm,5,White,4 Speed,FWD,,,,,,,3,4,,MPFI
+134,2016,"41,987 kms",First Owner,Petrol,Manual,Hyderabad,3.08 Lakh*,Datsun,20.71 kmpl,799 CC,53.64bhp,5600rpm,5,Grey,5-Speed,,,,,,,5,3,4,DOHC,MPFi
+135,2015,"56,845 kms",First Owner,Diesel,Manual,Hyderabad,3.1 Lakh*,Mahindra,21.03 kmpl,1461 CC,65bhp,4000rpm,5,Grey,5-Speed,,,,,,,4,4,2,SOHC,CRDI
+136,2015,"75,000 kms",First Owner,Petrol,Manual,Hyderabad,3.1 Lakh*,Maruti,22.74 kmpl,796 CC,47.3bhp,6000rpm,5,Blue,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+137,2015,"27,000 kms",First Owner,Petrol,Manual,Hyderabad,3.1 Lakh*,Maruti,22.74 kmpl,796 CC,47.3bhp,6000rpm,5,Grey,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+138,2011,"2,28,441 kms",First Owner,Diesel,Manual,Hyderabad,3.1 Lakh*,Volkswagen,20.54 kmpl,1598 CC,103.6bhp,4400rpm,5,Silver,5 Speed,,,Disc,Drum,186km/hr,,4,4,4,DOHC,CRDI
+139,2015,"32,462 kms",First Owner,Petrol,Manual,Hyderabad,3.13 Lakh*,Maruti,22.74 kmpl,796 CC,47.3 bhp,,5,Silver,5 Speed,,,,,,,,,,,
+140,2016,"70,244 kms",First Owner,Petrol,Manual,Hyderabad,3.13 Lakh*,Maruti,22.74 kmpl,796 CC,47.3bhp,6000rpm,5,Green,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+141,2007,"1,04,000 kms",First Owner,Diesel,Manual,Hyderabad,3.15 Lakh*,Tata,11.57 kmpl,2179 CC,138.1bhp,4000rpm,7,White,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+142,2016,"59,475 kms",First Owner,Petrol,Manual,Hyderabad,3.16 Lakh*,Renault,25.17 kmpl,799 CC,53.3bhp,5678rpm,5,Silver,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+143,2009,"66,636 kms",First Owner,Diesel,Manual,Hyderabad,3.2 Lakh*,Maruti,17.8 kmpl,1248 CC,75PS , 2000 rpm,5,Grey,5 Speed,,,,,,,5,4,4,DOHC,MPFI
+144,2011,"1,90,000 kms",First Owner,Diesel,Manual,Hyderabad,3.2 Lakh*,Tata,13.7 kmpl,2179 CC,138.1bhp,4000rpm,7,White,5 Speed,FWD,,,,,,5,4,4,,MPFI
+145,2011,"69,016 kms",First Owner,Petrol,Manual,Hyderabad,3.2 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Golden,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+146,2014,"87,000 kms",Third Owner,CNG,Manual,Hyderabad,3.2 Lakh*,Maruti,26.6 km/kg,998 CC,58.16bhp,6200rpm,5,,5 Speed,FWD,,,,,,,3,4,DOHC,null
+147,2016,"53,649 kms",First Owner,Petrol,Manual,Hyderabad,3.22 Lakh*,Maruti,24.7 kmpl,796 CC,47.3bhp,6000rpm,5,Grey,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+148,2013,"39,508 kms",First Owner,Petrol,Manual,Hyderabad,3.22 Lakh*,Hyundai,21.1 kmpl,814 CC,55.2bhp,5500rpm,5,Red,5 Speed,,,,,,,5,3,3,SOHC,MPFI
+149,2011,"68,289 kms",First Owner,Petrol,Manual,Hyderabad,3.24 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Golden,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+150,2011,"75,000 kms",First Owner,Petrol,Manual,Hyderabad,3.25 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Silver,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+151,2009,"1,10,000 kms",First Owner,Petrol,Manual,Hyderabad,3.25 Lakh*,Maruti,19.1 kmpl,1197 CC,85.8 bhp,,5,Silver,5 Speed,FWD,,,,,,,,,,
+152,2008,"1,22,321 kms",Second Owner,Diesel,Manual,Hyderabad,3.25 Lakh*,Mahindra,12.05 kmpl,2179 CC,120bhp,4000rpm,7,Black,5 Speed,FWD,,,,,,5,4,4,null,CRDI
+153,2011,"51,000 kms",Test Drive Car,Petrol,Manual,Hyderabad,3.25 Lakh*,Hyundai,17.0 kmpl,1197 CC,80 bhp,,5,Silver,5 Speed,FWD,,,,,,,,,,
+154,2013,"73,000 kms",First Owner,LPG,Manual,Hyderabad,3.25 Lakh*,Hyundai,19.2 km/kg,1086 CC,68.05bhp,5500rpm,5,Golden,5 Speed,FWD,,,,,,,4,3,SOHC,MPFI+LPG
+155,2007,"89,000 kms",First Owner,Petrol,Automatic,Hyderabad,3.25 Lakh*,Honda,20.0 kmpl,1339 CC,108.5bhp,6000rpm,5,White,6 Speed,,,,,,,,8,4,SOHC,null
+156,2010,"78,000 kms",First Owner,Diesel,Manual,Hyderabad,3.25 Lakh*,Maruti,17.8 kmpl,1248 CC,null bhp,,5,Red,,,Power,,,,,,,,null,null
+157,2008,"97,000 kms",First Owner,Petrol,Manual,Hyderabad,3.25 Lakh*,Honda,17.7 kmpl,1497 CC,78 ," 5,500 (PS",5,Grey,5 Speed,,,,,,,4,4,2,iDSI,PGM-FI (Programmed Fuel Injection)
+158,2002,"1,35,000 kms",First Owner,Petrol,Manual,Hyderabad,3.3 Lakh*,Mercedes-Benz,0.0 kmpl,,,,5,Blue,,,Power,,,,,4,,,,
+159,2011,"51,000 kms",Test Drive Car,Petrol,Manual,Hyderabad,3.3 Lakh*,Hyundai,17.0 kmpl,1197 CC,80 PS at 5200 rpm,,5,Silver,5 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+160,2016,"41,242 kms",First Owner,Petrol,Manual,Hyderabad,3.3 Lakh*,Datsun,22.5 kmpl,999 CC,67bhp,5500rpm,5,Grey,5-Speed,,,,,,,,3,4,DOHC,MPFi
+161,2011,"1,60,000 kms",Third Owner,Petrol,Manual,Hyderabad,3.3 Lakh*,Hyundai,17.1 kmpl,1591 CC,121.3 bhp,,5,,5 Speed,FWD,,,,,,,,,,
+162,2018,"15,000 kms",First Owner,Petrol,Manual,Hyderabad,3.3 Lakh*,Datsun,22.5 kmpl,999 CC,67 bhp,,5,,5-Speed,2WD,,,,,,,3,4,DOHC,MPFi
+163,2008,"89,000 kms",First Owner,Petrol,Manual,Hyderabad,3.3 Lakh*,Maruti,19.1 kmpl,1197 CC,85.8bhp,6000rpm,5,Golden,5 Speed,FWD,,,,,12.6 Seconds,4,4,4,,MPFI
+164,2010,"72,392 kms",First Owner,Petrol,Manual,Hyderabad,3.3 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+165,2015,"44,639 kms",First Owner,Petrol,Manual,Hyderabad,3.34 Lakh*,Hyundai,21.1 kmpl,814 CC,55.2bhp,5500rpm,5,Grey,5 Speed,,,Disc,Drum,135 Kmph,19 Seconds,5,3,3,SOHC,MPFI
+166,2012,"79,000 kms",First Owner,Petrol,Manual,Hyderabad,3.35 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+167,2009,"65,000 kms",First Owner,Petrol,Manual,Hyderabad,3.35 Lakh*,Honda,17.0 kmpl,1497 CC,"118PS at 6,600 rpm",,5,Grey,5 Speed,,,,,,,4,4,4,SOHC,EFI (Electronic Fuel Injection)
+168,2009,"52,473 kms",First Owner,Petrol,Manual,Hyderabad,3.39 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+169,2010,"80,080 kms",Second Owner,Diesel,Automatic,Hyderabad,3.45 Lakh*,Chevrolet,18.1 kmpl,1991 CC,147.9bhp,4000rpm,4,White,6 Speed,,,,,,,,4,4,SOHC,CRDI
+170,2009,"68,348 kms",First Owner,Petrol,Manual,Hyderabad,3.45 Lakh*,Maruti,16.1 kmpl,1298 CC,88.2,6000 (PS,5,Black,5 Speed,,,,,,,5,4,4,,MPFI
+171,2014,"78,129 kms",First Owner,Diesel,Manual,Hyderabad,3.45 Lakh*,Mahindra,21.03 kmpl,1461 CC,65bhp,4000rpm,5,Silver,5-Speed,,,,,,,4,4,2,SOHC,CRDI
+172,2012,"55,000 kms",First Owner,Petrol,Manual,Hyderabad,3.45 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+173,2018,"12,012 kms",First Owner,Petrol,Manual,Hyderabad,3.45 Lakh*,Maruti,22.74 kmpl,796 CC,47.3bhp,6000rpm,5,Grey,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+174,2013,"55,000 kms",First Owner,Diesel,Manual,Hyderabad,3.45 Lakh*,Ford,20.0 kmpl,1399 CC,68.05bhp,4000rpm,5,Grey,5 Speed,FWD,,,,,,,4,2,SOHC,Common Rail
+175,2009,"49,700 kms",First Owner,Petrol,Manual,Hyderabad,3.49 Lakh*,Hyundai,19.2 kmpl,1197 CC,80 ," 5,200 (PS",5,Grey,4 Speed,,,,,,,,4,4,DOHC,MPFI
+176,2011,"53,000 kms",First Owner,Diesel,Manual,Hyderabad,3.5 Lakh*,Ford,17.8 kmpl,1399 CC,68 ," 4,000 (PS",5,Black,5 Speed,FWD,,,,156 kmph,17.6 seconds,4,4,2,SOHC,CRDI
+177,2006,"1,20,000 kms",Third Owner,Diesel,Manual,Hyderabad,3.5 Lakh*,Toyota,12.8 kmpl,2494 CC,102,"3,600 (PS",8,,5 Speed,,Manual,,,,,5,4,4,DOHC,CRDI
+178,2011,"75,000 kms",First Owner,Diesel,Manual,Hyderabad,3.5 Lakh*,Maruti,22.9 kmpl,1248 CC,74bhp,4000rpm,5,White,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+179,2012,"45,000 kms",First Owner,Petrol,Manual,Hyderabad,3.5 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Silver,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+180,2014,"70,000 kms",First Owner,Diesel,Manual,Hyderabad,3.5 Lakh*,Mahindra,14.95 kmpl,2489 CC,93.7bhp,3600rpm,7,,5 Speed,RWD,,,,,,5,4,2,SOHC,Common Rail
+181,2008,"71,198 kms",First Owner,Petrol,Manual,Hyderabad,3.51 Lakh*,Maruti,17.5 kmpl,1298 CC,85.8bhp,6000rpm,5,Red,5 Speed,2 WD,,Ventilated Disc,Drum,,,4,4,4,SOHC,MPFI
+182,2012,"65,253 kms",First Owner,LPG,Manual,Hyderabad,3.51 Lakh*,Hyundai,19.0 km/kg,1086 CC,68.1bhp,5500rpm,5,Black,5 Speed,FWD,,,,,,,4,3,SOHC,MPFI+LPG
+183,2013,"82,000 kms",First Owner,Petrol,Manual,Hyderabad,3.55 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Silver,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+184,2018,"14,000 kms",First Owner,Petrol,Manual,Hyderabad,3.55 Lakh*,Maruti,24.7 kmpl,796 CC,47.3bhp,6000rpm,5,Maroon,5 Speed,,,,,140 kmph,19 Seconds,5,3,4,DOHC,MPFi
+185,2012,"57,390 kms",First Owner,Petrol,Manual,Hyderabad,3.56 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+186,2009,"85,657 kms",First Owner,Petrol,Manual,Hyderabad,3.6 Lakh*,Maruti,17.5 kmpl,1298 CC,85.8bhp,6000rpm,5,Red,5 Speed,2 WD,,Ventilated Disc,Drum,,,4,4,4,SOHC,MPFI
+187,2012,"86,000 kms",First Owner,Diesel,Manual,Hyderabad,3.6 Lakh*,Volkswagen,22.07 kmpl,1199 CC,73.9bhp,4200rpm,5,Grey,5 Speed,FWD,,,,,,5,3,4,,CRDI
+188,2011,"37,000 kms",First Owner,Petrol,Automatic,Hyderabad,3.6 Lakh*,Hyundai,16.95 kmpl,1197 CC,78.9 bhp,,5,Red,4-Speed,FWD,,,,,,,,,,
+189,2017,"18,725 kms",First Owner,Petrol,Manual,Hyderabad,3.6 Lakh*,Renault,23.01 kmpl,999 CC,67bhp,5500rpm,5,Grey,5 Speed,,,,,,,,3,4,DOHC,MPFi
+190,2015,"54,000 kms",First Owner,Petrol,Manual,Hyderabad,3.6 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+191,2011,"78,346 kms",First Owner,Petrol,Manual,Hyderabad,3.6 Lakh*,Maruti,17.5 kmpl,1197 CC,85.8bhp,6000rpm,5,White,5 Speed,2 WD,,,,,,4,4,4,SOHC,MPFI
+192,2012,"1,03,473 kms",First Owner,Petrol,Manual,Hyderabad,3.65 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+193,2011,"78,000 kms",First Owner,Diesel,Manual,Hyderabad,3.65 Lakh*,Hyundai,21.9 kmpl,1396 CC,90 bhp,,5,White,5-Speed,,,,,,,,,,,
+194,2010,"44,900 kms",First Owner,Petrol,Manual,Hyderabad,3.65 Lakh*,Maruti,16.1 kmpl,1298 CC,88.2,6000 (PS,5,Silver,5 Speed,,,,,,12.29 seconds,5,4,4,,MPFI
+195,2018,"27,700 kms",First Owner,Petrol,Manual,Hyderabad,3.65 Lakh*,Maruti,24.7 kmpl,796 CC,47.3bhp,6000rpm,5,Grey,5 Speed,,,,,,19 Seconds,5,3,4,DOHC,MPFi
+196,2013,"74,000 kms",First Owner,Diesel,Manual,Hyderabad,3.65 Lakh*,Hyundai,21.9 kmpl,1396 CC,88.76bhp,4000rpm,5,Grey,6 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+197,2011,"78,088 kms",First Owner,Petrol,Manual,Hyderabad,3.65 Lakh*,Hyundai,17.0 kmpl,1197 CC,80 bhp,,5,White,5 Speed,,,,,,,,,,,
+198,2011,"88,209 kms",First Owner,Diesel,Manual,Hyderabad,3.65 Lakh*,Hyundai,23.0 kmpl,1396 CC,90PS at 4000rpm,,5,Silver,6 Speed,,,,,,,,4,4,DOHC,CRDI
+199,2014,"22,107 kms",First Owner,Petrol,Manual,Hyderabad,3.67 Lakh*,Datsun,20.63 kmpl,1198 CC,67 bhp,,5,White,5 Speed,,,,,,,,,,,
+200,2012,"68,000 kms",First Owner,Petrol,Manual,Hyderabad,3.7 Lakh*,Maruti,18.9 kmpl,998 CC,67.1bhp,6200rpm,5,Grey,5 Speed,FWD,,,,,,,3,4,,MPFI
+201,2013,"28,600 kms",First Owner,Petrol,Manual,Hyderabad,3.75 Lakh*,Honda,19.4 kmpl,1198 CC,86.8bhp,6000rpm,5,White,5 Speed,FWD,,,,,,,4,4,SOHC,PGM - Fi
+202,2008,"88,321 kms",First Owner,Petrol,Automatic,Hyderabad,3.75 Lakh*,Honda,12.9 kmpl,1799 CC,130 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+203,2008,"66,000 kms",First Owner,Petrol,Automatic,Hyderabad,3.75 Lakh*,Honda,12.9 kmpl,1799 CC,130bhp,6300rpm,5,Blue,5 Speed,,,,,,11.3 seconds,4,4,4,SOHC,PGM-FI (Programmed Fuel Injection)
+204,2016,"56,000 kms",First Owner,Diesel,Manual,Hyderabad,3.75 Lakh*,Chevrolet,25.44 kmpl,936 CC,56.3 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+205,2019,"50,259 kms",First Owner,Petrol,Manual,Hyderabad,3.75 Lakh*,Maruti,24.7 kmpl,796 CC,47.3 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+206,2011,"83,000 kms",First Owner,Diesel,Manual,Hyderabad,3.75 Lakh*,Volkswagen,22.07 kmpl,1199 CC,73.9 bhp,,5,White,5 Speed,FWD,,,,,,,,,,
+207,2016,"1,20,000 kms",Second Owner,Diesel,Manual,Hyderabad,3.8 Lakh*,Tata,22.95 kmpl,1248 CC,74bhp,4000rpm,5,,5 Speed,FWD,,,,,,,4,4,DOHC,CRDi
+208,2018,"14,656 kms",First Owner,Petrol,Manual,Hyderabad,3.8 Lakh*,Renault,23.01 kmpl,999 CC,67bhp,5500rpm,5,Green,5 Speed,,,,,,,,3,4,DOHC,MPFi
+209,2018,"53,573 kms",First Owner,Petrol,Automatic,Hyderabad,3.84 Lakh*,Renault,24.04 kmpl,999 CC,67 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+210,2011,"1,06,000 kms",Second Owner,Diesel,Manual,Hyderabad,3.85 Lakh*,Maruti,22.9 kmpl,1248 CC,74bhp,4000rpm,5,White,5 Speed,FWD,,,,,,5,4,4,,CRDI
+211,2014,"91,000 kms",First Owner,Petrol,Manual,Hyderabad,3.85 Lakh*,Maruti,18.9 kmpl,998 CC,67.1 bhp,,5,Silver,5 Speed,FWD,,,,,,,,,,
+212,2011,"89,686 kms",First Owner,Diesel,Manual,Hyderabad,3.85 Lakh*,Maruti,17.8 kmpl,1248 CC,null bhp,,5,Golden,,,Power,,,,,,,,null,null
+213,2016,"77,000 kms",First Owner,Diesel,Manual,Hyderabad,3.85 Lakh*,Maruti,27.62 kmpl,793 CC,47 bhp,,5,White,5 Speed,,,,,,,,,,,
+214,2013,"56,000 kms",First Owner,Petrol,Manual,Hyderabad,3.85 Lakh*,Honda,19.4 kmpl,1198 CC,86.8bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,5,4,4,SOHC,PGM - Fi
+215,2015,"87,000 kms",First Owner,Diesel,Manual,Hyderabad,3.85 Lakh*,Mahindra,17.21 kmpl,1493 CC,100bhp,3750rpm,7,White,5 Speed,RWD,,,,,14 Seconds,5,3,4,DOHC,Common Rail
+216,2013,"72,000 kms",First Owner,Petrol,Manual,Hyderabad,3.85 Lakh*,Hyundai,20.36 kmpl,1197 CC,78.9 bhp,,5,Red,5 Speed,FWD,,,,,,,,,,
+217,2015,"66,300 kms",First Owner,Petrol,Manual,Hyderabad,3.89 Lakh*,Maruti,20.51 kmpl,998 CC,67.04bhp,6200rpm,5,Brown,5 Speed,,,,,152 kmph,18.6 Seconds,5,3,4,DOHC,null
+218,2010,"75,000 kms",First Owner,Petrol,Automatic,Hyderabad,3.9 Lakh*,Honda,16.8 kmpl,1497 CC,"118PS at 6,600 rpm",,5,White,5 Speed,,,,,,,4,4,4,SOHC,EFI(Electronic Fuel Injection)
+219,2016,"78,296 kms",First Owner,Diesel,Manual,Hyderabad,3.9 Lakh*,Maruti,21.1 kmpl,1248 CC,73.9bhp,4000rpm,5,White,5-Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+220,2011,"70,000 kms",First Owner,Petrol,Manual,Hyderabad,3.9 Lakh*,Maruti,18.6 kmpl,1197 CC,85.8bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+221,2011,"80,000 kms",First Owner,Diesel,Manual,Hyderabad,3.9 Lakh*,Volkswagen,20.54 kmpl,1598 CC,103.6 bhp,,5,White,5 Speed,FWD,,,,,,,,,,
+222,2013,"78,000 kms",First Owner,Diesel,Manual,Hyderabad,3.95 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88.8bhp,4200rpm,5,White,5 Speed,FWD,,,,,16.1 Seconds,5,4,4,DOHC,Direct Injection
+223,2013,"83,000 kms",First Owner,Diesel,Manual,Hyderabad,3.95 Lakh*,Maruti,22.9 kmpl,1248 CC,74bhp,4000rpm,5,Orange,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+224,2007,"1,13,000 kms",First Owner,Petrol,Automatic,Hyderabad,3.95 Lakh*,Honda,14.0 kmpl,,,,5,White,,,Power,,,,,5,,,,
+225,2013,"75,409 kms",First Owner,Diesel,Manual,Hyderabad,3.95 Lakh*,Maruti,21.79 kmpl,1248 CC,88.73bhp,4000 rpm,5,White,5 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+226,2017,"70,100 kms",First Owner,Diesel,Manual,Hyderabad,3.95 Lakh*,Hyundai,24.4 kmpl,1120 CC,71 bhp,,5,Silver,5 Speed,,,,,,,,,,,
+227,2011,"83,251 kms",First Owner,Diesel,Manual,Hyderabad,3.95 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,Silver,6 Speed,FWD,,,,190km/hr,10.62 Seconds,4,4,4,DOHC,CRDI
+228,2014,"1,04,481 kms",First Owner,Diesel,Manual,Hyderabad,3.95 Lakh*,Honda,25.8 kmpl,1498 CC,98.6 bhp,,5,Brown,5 Speed,FWD,,,,,,,,,,
+229,2019,"50,259 kms",First Owner,Petrol,Manual,Hyderabad,3.97 Lakh*,Maruti,24.7 kmpl,796 CC,47.3bhp,6000rpm,5,Grey,5 Speed,,,,,,19 Seconds,5,3,4,DOHC,MPFi
+230,2012,"75,000 kms",First Owner,Diesel,Manual,Hyderabad,3.99 Lakh*,Toyota,23.59 kmpl,1364 CC,null bhp,,5,White,,,Power,,,,,,,,,
+231,2014,"1,45,000 kms",First Owner,Diesel,Manual,Hyderabad,3.99 Lakh*,Mahindra,17.21 kmpl,1493 CC,100bhp,3750rpm,7,White,5 Speed,RWD,,,,,,5,3,4,DOHC,Common Rail
+232,2014,"1,34,000 kms",First Owner,Diesel,Manual,Hyderabad,3.99 Lakh*,Mahindra,17.21 kmpl,1493 CC,100bhp,3750rpm,7,White,5 Speed,RWD,,,,,,5,3,4,DOHC,Common Rail
+233,2007,"1,76,000 kms",First Owner,Petrol,Automatic,Hyderabad,3.99 Lakh*,Honda,10.1 kmpl,2354 CC,152 PS , 6000 rpm,5,White,5 Speed,,,,262mm Disc & Drum Combination,182 kmph,11.2 seconds,5,4,4,DOHC,PGM-FI
+234,2014,"1,47,000 kms",First Owner,Diesel,Manual,Hyderabad,3.99 Lakh*,Mahindra,17.21 kmpl,1493 CC,100bhp,3750rpm,7,White,5 Speed,RWD,,,,,,5,3,4,DOHC,Common Rail
+235,2018,"18,600 kms",Second Owner,Petrol,Automatic,Hyderabad,3.99 Lakh*,Maruti,23.95 kmpl,998 CC,67.1bhp,6000rpm,5,Red,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+236,2009,"78,000 kms",First Owner,Petrol,Manual,Hyderabad,3.99 Lakh*,Honda,17.0 kmpl,1497 CC,"118PS at 6,600 rpm",,5,Red,5 Speed,,,,,,,4,4,4,SOHC,EFI(Electronic Fuel Injection)
+237,2012,"57,001 kms",First Owner,Petrol,Automatic,Hyderabad,3.99 Lakh*,Hyundai,16.95 kmpl,1197 CC,78.9bhp,6000rpm,5,White,4-Speed,FWD,,,Drum,,,4,4,4,DOHC,MPFI
+238,2016,"70,000 kms",First Owner,Petrol,Manual,Hyderabad,4 Lakh*,Renault,23.01 kmpl,999 CC,67bhp,5500rpm,5,Silver,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+239,2008,"1,02,523 kms",First Owner,Diesel,Manual,Hyderabad,4 Lakh*,Mahindra,12.05 kmpl,2179 CC,120bhp,4000rpm,7,Brown,5 Speed,FWD,,,,,,5,4,4,null,CRDI
+240,2012,"92,173 kms",First Owner,Diesel,Manual,Hyderabad,4 Lakh*,Hyundai,21.27 kmpl,1396 CC,88.76bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+241,2015,"31,800 kms",First Owner,Petrol,Manual,Hyderabad,4 Lakh*,Hyundai,18.9 kmpl,1197 CC,82bhp,6000rpm,5,Grey,5 Speed,,,,,,12.9 Seconds,5,4,4,DOHC,MPFI
+242,2010,"84,935 kms",First Owner,Petrol,Manual,Hyderabad,4.03 Lakh*,Honda,17.0 kmpl,1497 CC,"118PS at 6,600 rpm",,5,Red,5 Speed,,,Disc,Drum,,,4,4,4,SOHC,EFI(Electronic Fuel Injection)
+243,2016,"24,800 kms",First Owner,Petrol,Manual,Hyderabad,4.1 Lakh*,Maruti,15.37 kmpl,1196 CC,73bhp,6000rpm,5,Grey,5 Speed,,,,,,,5,4,4,DOHC,MPFi
+244,2012,"96,117 kms",First Owner,Diesel,Manual,Hyderabad,4.1 Lakh*,Skoda,20.5 kmpl,1598 CC,103.5bhp,4400rpm,5,Silver,5 Speed,,,,Drum,,,4,4,4,DOHC,Direct Injection
+245,2011,"78,310 kms",First Owner,Petrol,Manual,Hyderabad,4.14 Lakh*,Maruti,,,,,,,,,,,,,,,,,,
+246,2011,"37,000 kms",First Owner,Petrol,Automatic,Hyderabad,4.15 Lakh*,Hyundai,16.95 kmpl,1197 CC,78.9bhp,6000rpm,5,Red,4-Speed,FWD,,,,,,,4,4,DOHC,MPFI
+247,2017,"14,101 kms",First Owner,Petrol,Automatic,Hyderabad,4.15 Lakh*,Renault,24.04 kmpl,999 CC,67bhp,5500rpm,5,Red,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+248,2018,"21,187 kms",First Owner,Petrol,Automatic,Hyderabad,4.2 Lakh*,Renault,24.04 kmpl,999 CC,67 bhp,,5,OBronze,5 Speed,,,,,,,,,,,
+249,2018,"8,009 kms",First Owner,Petrol,Manual,Hyderabad,4.2 Lakh*,Renault,25.17 kmpl,799 CC,53.3bhp,5678rpm,5,Grey,5 Speed,,,,,135 Kmph,16 Seconds,5,3,4,DOHC,MPFi
+250,2014,"1,16,000 kms",Test Drive Car,Diesel,Manual,Hyderabad,4.2 Lakh*,Honda,25.8 kmpl,1498 CC,98.6bhp,3600rpm,5,Silver,5 Speed,,,,Drum,170 Kmph,17 Seconds,4,4,4,DOHC,
+251,2010,"92,000 kms",First Owner,Diesel,Automatic,Hyderabad,4.2 Lakh*,Skoda,17.0 kmpl,1896 CC,105PS ,4000rpm,5,White,6 Speed,,,,,,,4,4,4,SOHC,Direct Injection
+252,2012,"67,000 kms",First Owner,Diesel,Manual,Hyderabad,4.2 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73bhp,4000rpm,5,Silver,6 Speed,,,,Drum,180 Kmph,11.9 Seconds,5,4,4,DOHC,CRDI
+253,2013,"85,321 kms",First Owner,Diesel,Manual,Hyderabad,4.25 Lakh*,Honda,25.8 kmpl,1498 CC,98.6bhp,3600rpm,5,Brown,5 Speed,,,,,170 Kmph,17 Seconds,4,4,4,DOHC,
+254,2012,"75,000 kms",First Owner,Diesel,Manual,Hyderabad,4.25 Lakh*,Mahindra,15.96 kmpl,2523 CC,62.1bhp,3200rpm,7,Black,5 Speed,,,,,,30.3 Seconds,5,4,2,SOHC,CRDi
+255,2012,"80,000 kms",First Owner,Diesel,Manual,Hyderabad,4.25 Lakh*,Mahindra,15.96 kmpl,2523 CC,62.1 bhp,,7,Black,5 Speed,,,,,,,,,,,
+256,2010,"59,396 kms",First Owner,Petrol,Manual,Hyderabad,4.25 Lakh*,Honda,14.8 kmpl,1799 CC,130.2bhp,6300rpm,5,Grey,5 Speed,FWD,,,,,,4,4,4,SOHC,PGM-FI (Programmed Fuel Injection)
+257,2013,"73,000 kms",First Owner,Diesel,Manual,Hyderabad,4.25 Lakh*,Ford,20.0 kmpl,1399 CC,68.05 bhp,,5,Grey,5 Speed,FWD,,,,,,,,,,
+258,2008,"61,321 kms",First Owner,Petrol,Automatic,Hyderabad,4.25 Lakh*,Honda,12.9 kmpl,1799 CC,130bhp,6300rpm,5,Violet,5 Speed,,,,,195 kmph,11.3 seconds,4,4,4,SOHC,PGM-FI (Programmed Fuel Injection)
+259,2020,"18,200 kms",First Owner,Petrol,Manual,Hyderabad,4.25 Lakh*,Maruti,24.7 kmpl,796 CC,47.3bhp,6000rpm,5,Red,5 Speed,,,Solid Disc,Drum,140 kmph,19 Seconds,5,3,4,DOHC,MPFi
+260,2013,"75,000 kms",First Owner,Diesel,Manual,Hyderabad,4.25 Lakh*,Hyundai,21.9 kmpl,1396 CC,88.76bhp,4000rpm,5,White,6 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+261,2009,"80,000 kms",First Owner,Petrol,Manual,Hyderabad,4.25 Lakh*,Skoda,13.4 kmpl,1798 CC,157.8bhp,4500-6200rpm,5,Black,6 Speed,,,,,,9.7 Seconds,4,4,4,DOHC,Direct Injection
+262,2013,"48,698 kms",Second Owner,Petrol,Manual,Hyderabad,4.25 Lakh*,Toyota,16.78 kmpl,1496 CC,88.73bhp,5600rpm,5,White,5 Speed,,,,,,,4,4,4,DOHC,EFI
+263,2013,"1,10,000 kms",Second Owner,Diesel,Manual,Hyderabad,4.25 Lakh*,Volkswagen,20.54 kmpl,1598 CC,103.6bhp,4400rpm,5,White,5 Speed,FWD,,,Drum,186km/hr,,4,4,4,DOHC,CRDI
+264,2017,"81,643 kms",First Owner,Petrol,Manual,Hyderabad,4.25 Lakh*,Maruti,18.9 kmpl,998 CC,67.1bhp,6200rpm,5,White,5 Speed,FWD,,,,,,,3,4,,MPFI
+265,2015,"48,518 kms",First Owner,Petrol,Manual,Hyderabad,4.26 Lakh*,Maruti,21.79 kmpl,998 CC,67.05bhp,5500rpm,5,Grey,5 Speed,,,,,,,,3,4,DOHC,MPFI
+266,2018,"80,454 kms",First Owner,Petrol,Automatic,Hyderabad,4.3 Lakh*,Maruti,21.63 kmpl,998 CC,67bhp,6000rpm,5,Grey,AGS,,,,,,,5,3,4,,MPFi
+267,2015,"51,000 kms",First Owner,Petrol,Manual,Hyderabad,4.3 Lakh*,Honda,19.4 kmpl,1198 CC,86.8bhp,6000rpm,5,Red,5 Speed,,,,,,,5,4,4,SOHC,PGM - Fi
+268,2015,"51,456 kms",First Owner,Petrol,Automatic,Hyderabad,4.32 Lakh*,Nissan,19.34 kmpl,1198 CC,76bhp,6000rpm,5,Silver,5 Speed,FWD,,,,,,,3,4,DOHC,null
+269,2018,"54,423 kms",First Owner,Petrol,Manual,Hyderabad,4.32 Lakh*,Renault,23.01 kmpl,999 CC,67bhp,5500rpm,5,Bronze,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+270,2018,"39,303 kms",First Owner,Petrol,Manual,Hyderabad,4.32 Lakh*,Maruti,15.37 kmpl,1196 CC,73bhp,6000rpm,7,Grey,5 Speed,,,,,,,5,4,4,DOHC,MPFi
+271,2013,"80,000 kms",First Owner,Diesel,Manual,Hyderabad,4.35 Lakh*,Maruti,22.9 kmpl,1248 CC,74bhp,4000rpm,5,Grey,5 Speed,FWD,,,,158km/hr,13.75 Seconds,5,4,4,DOHC,CRDI
+272,2016,"66,134 kms",First Owner,Petrol,Manual,Hyderabad,4.37 Lakh*,Maruti,21.79 kmpl,998 CC,67.05bhp,5500rpm,5,White,5 Speed,,,,,,,5,3,4,DOHC,MPFI
+273,2018,"15,900 kms",First Owner,Petrol,Manual,Hyderabad,4.39 Lakh*,Tata,23.84 kmpl,1199 CC,84bhp,6000rpm,5,Brown,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+274,2018,"25,104 kms",First Owner,Petrol,Manual,Hyderabad,4.4 Lakh*,Maruti,20.89 kmpl,1197 CC,81.80 bhp,,5,Met granite grey,5 Speed,,,,,,,,,,,
+275,2011,"86,905 kms",First Owner,Petrol,Manual,Hyderabad,4.4 Lakh*,Honda,16.8 kmpl,1497 CC,116.4bhp,6600rpm,5,Grey,5 Speed,FWD,,Disc,Drum,,,4,4,4,SOHC,EFI (Electronic Fuel Injection)
+276,2019,"17,166 kms",First Owner,Petrol,Manual,Hyderabad,4.41 Lakh*,Renault,25.17 kmpl,799 CC,53.3bhp,5678rpm,5,Fiery Red,5 Speed,,,,,,16 Seconds,5,3,4,DOHC,MPFi
+277,2011,"1,59,000 kms",First Owner,Diesel,Manual,Hyderabad,4.45 Lakh*,Tata,13.7 kmpl,2179 CC,138.1bhp,4000rpm,7,White,5 Speed,FWD,,,,,,5,4,4,,MPFI
+278,2014,"98,754 kms",First Owner,Diesel,Automatic,Hyderabad,4.45 Lakh*,Skoda,21.66 kmpl,1498 CC,103.52 bhp,,5,White,7 Speed,FWD,,,,,,,,,,
+279,2013,"46,000 kms",First Owner,Petrol,Manual,Hyderabad,4.45 Lakh*,Honda,18.0 kmpl,1198 CC,86.7bhp,6000rpm,5,Black,5 Speed,,,,,,,4,4,4,SOHC,
+280,2017,"50,000 kms",Second Owner,Diesel,Manual,Hyderabad,4.5 Lakh*,Ford,25.83 kmpl,1498 CC,99bhp,3750rpm,5,,5 Speed,FWD,,,,,,5,4,2,SOHC,Common Rail
+281,2013,"1,04,000 kms",First Owner,Diesel,Manual,Hyderabad,4.5 Lakh*,Hyundai,23.5 kmpl,1396 CC,88.7bhp,4000rpm,5,Silver,6 Speed,FWD,,Disc,Disc,,,4,4,4,DOHC,CRDI
+282,2014,"57,000 kms",First Owner,Diesel,Manual,Hyderabad,4.5 Lakh*,Hyundai,24.4 kmpl,1120 CC,71bhp,4000rpm,5,White,5 Speed,,,,,,,4,3,4,DOHC,CRDI
+283,2010,"1,05,000 kms",First Owner,Diesel,Manual,Hyderabad,4.5 Lakh*,Chevrolet,18.3 kmpl,1991 CC,147.9bhp,4000rpm,5,Black,5 Speed,,,,,,,4,4,4,SOHC,CRDI
+284,2018,"48,008 kms",First Owner,Electric,Automatic,Hyderabad,4.5 Lakh*,Mahindra,0.0 km/hr,0 CC,41.57bhp,3500rpm,5,White,Fully Automatic,,,,,,,4,0,0,undefined,Electric
+285,2015,"1,50,000 kms",First Owner,Diesel,Manual,Hyderabad,4.5 Lakh*,Ford,25.83 kmpl,1498 CC,99bhp,3750rpm,5,Red,5 Speed,FWD,,,,,,4,4,2,SOHC,Common Rail
+286,2011,"77,727 kms",First Owner,Petrol,Manual,Hyderabad,4.5 Lakh*,Honda,17.0 kmpl,1497 CC,"118PS at 6,600 rpm",,5,Grey,5 Speed,,,,Drum,,,4,4,4,SOHC,EFI(Electronic Fuel Injection)
+287,2011,"88,000 kms",First Owner,Diesel,Manual,Hyderabad,4.5 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,White,6 Speed,FWD,,,,,10.62 Seconds,4,4,4,DOHC,CRDI
+288,2018,"45,005 kms",First Owner,Electric,Automatic,Hyderabad,4.5 Lakh*,Mahindra,0.0 km/hr,0 CC,41.57bhp,3500rpm,5,White,Fully Automatic,,,,,,,4,0,0,undefined,Electric
+289,2014,"60,500 kms",First Owner,Petrol,Automatic,Hyderabad,4.5 Lakh*,Maruti,17.16 kmpl,1197 CC,85.80bhp,6000rpm,5,White,4 Speed,,,,,,,5,4,4,DOHC,MPFI
+290,2018,"46,505 kms",First Owner,Electric,Automatic,Hyderabad,4.5 Lakh*,Mahindra,0.0 km/hr,0 CC,41.57 bhp,,5,White,Fully Automatic,,,,,,,,,,,
+291,2011,"66,000 kms",First Owner,Petrol,Manual,Hyderabad,4.5 Lakh*,Toyota,14.53 kmpl,1798 CC,138.1bhp,6400rpm,5,White,6 Speed,FWD,,,,,10.42Seconds,4,4,4,DOHC,EFI(Electronic Fuel Injection)
+292,2018,"47,007 kms",First Owner,Electric,Automatic,Hyderabad,4.5 Lakh*,Mahindra,0.0 km/hr,0 CC,41.57bhp,3500rpm,5,White,Fully Automatic,,,,,,,4,0,0,undefined,Electric
+293,2018,"49,009 kms",First Owner,Electric,Automatic,Hyderabad,4.5 Lakh*,Mahindra,0.0 km/hr,0 CC,41.57bhp,3500rpm,5,White,Fully Automatic,,,,,,,4,0,0,undefined,Electric
+294,2015,"14,798 kms",Second Owner,Petrol,Automatic,Hyderabad,4.51 Lakh*,Maruti,21.63 kmpl,998 CC,67.05bhp,6000rpm,5,Red,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+295,2015,"45,000 kms",First Owner,Petrol,Automatic,Hyderabad,4.55 Lakh*,Maruti,23.1 kmpl,998 CC,67.04bhp,6000rpm,5,White,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+296,2013,"68,028 kms",First Owner,Petrol,Manual,Hyderabad,4.55 Lakh*,Maruti,19.1 kmpl,1197 CC,85.8bhp,6000rpm,5,Silver,5 Speed,FWD,,,,,12.6 Seconds,4,4,4,,MPFI
+297,2017,"35,761 kms",First Owner,Petrol,Manual,Hyderabad,4.59 Lakh*,Maruti,21.79 kmpl,998 CC,67.05bhp,5500rpm,5,Magma Grey,5 Speed,,,,,,,5,3,4,DOHC,MPFI
+298,2013,"72,000 kms",First Owner,Diesel,Manual,Hyderabad,4.6 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88.8bhp,4200rpm,5,Grey,5 Speed,FWD,,,Drum,163 Kmph,16.1 Seconds,5,4,4,DOHC,Direct Injection
+299,2012,"1,10,786 kms",First Owner,Diesel,Manual,Hyderabad,4.6 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,White,6 Speed,FWD,,,Disc,190km/hr,10.62 Seconds,4,4,4,DOHC,CRDI
+300,2014,"7,281 kms",First Owner,Diesel,Manual,Hyderabad,4.6 Lakh*,Hyundai,24.0 kmpl,1120 CC,70bhp,4000rpm,5,White,5 Speed,,,,,157 Kmph,15.6 Seconds,5,3,4,DOHC,CRDi
+301,2013,"49,361 kms",First Owner,Petrol,Manual,Hyderabad,4.64 Lakh*,Volkswagen,15.04 kmpl,1598 CC,103.2bhp,5250rpm,5,Terra Beige,5 Speed,,,,,185 kmph,12.3 Seconds,4,4,4,DOHC,MPFI
+302,2015,"52,173 kms",First Owner,Diesel,Manual,Hyderabad,4.64 Lakh*,Maruti,27.62 kmpl,793 CC,47bhp,3500rpm,5,Grey,5 Speed,,,,Drum,130 Kmph,21.9 Seconds,5,2,4,SOHC,CRDi
+303,2013,"1,15,000 kms",Test Drive Car,Diesel,Manual,Hyderabad,4.65 Lakh*,Renault,19.01 kmpl,1461 CC,108.45bhp,3900rpm,5,Silver,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+304,2012,"88,321 kms",First Owner,Petrol,Automatic,Hyderabad,4.65 Lakh*,Volkswagen,14.4 kmpl,1598 CC,103.6bhp,5250rpm,5,White,6 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+305,2011,"72,000 kms",First Owner,Petrol,Manual,Hyderabad,4.65 Lakh*,Honda,17.0 kmpl,1497 CC,"118PS at 6,600 rpm",,5,Metallic Grey,5 Speed,,,,,,,4,4,4,SOHC,EFI(Electronic Fuel Injection)
+306,2014,"61,398 kms",First Owner,Diesel,Manual,Hyderabad,4.65 Lakh*,Hyundai,24.0 kmpl,1120 CC,70bhp,4000rpm,5,Blue,5 Speed,,,,Drum,157 Kmph,15.6 Seconds,5,3,4,DOHC,CRDi
+307,2014,"77,000 kms",First Owner,Diesel,Manual,Hyderabad,4.65 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88.8 bhp,,5,Red,5 Speed,FWD,,,,,,,,,,
+308,2015,"57,000 kms",First Owner,Petrol,Manual,Hyderabad,4.65 Lakh*,Maruti,18.5 kmpl,1197 CC,85.80bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+309,2018,"44,000 kms",First Owner,Petrol,Manual,Hyderabad,4.69 Lakh*,Nissan,19.49 kmpl,1198 CC,67.04 bhp,,5,Blue,5 Speed,,,,,,,,,,,
+310,2013,"75,130 kms",First Owner,Diesel,Manual,Hyderabad,4.7 Lakh*,Maruti,22.9 kmpl,1248 CC,74bhp,4000rpm,5,Silver,5 Speed,FWD,,,,158km/hr,13.75 Seconds,5,4,4,DOHC,CRDI
+311,2011,"74,000 kms",Second Owner,Diesel,Manual,Hyderabad,4.75 Lakh*,Hyundai,14.66 kmpl,2199 CC,194.3bhp,3800rpm,7,White,6 Speed,AWD,,,,,,5,4,4,DOHC,Common Rail Direct Injection
+312,2014,"62,321 kms",First Owner,Diesel,Manual,Hyderabad,4.75 Lakh*,Maruti,23.2 kmpl,1248 CC,73.94 bhp,,5,Red,5 Speed,FWD,,,,,,,,,,
+313,2013,"87,669 kms",First Owner,Diesel,Manual,Hyderabad,4.75 Lakh*,Hyundai,21.27 kmpl,1396 CC,88.76bhp,4000rpm,5,Red,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+314,2018,"57,137 kms",First Owner,Petrol,Manual,Hyderabad,4.75 Lakh*,Tata,23.84 kmpl,1199 CC,84bhp,6000rpm,5,White,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+315,2016,"40,000 kms",First Owner,Petrol,Manual,Hyderabad,4.75 Lakh*,Ford,18.16 kmpl,1196 CC,86.8 bhp,,5,Maroon,5 Speed,,,,,,,,,,,
+316,2014,"72,321 kms",First Owner,Diesel,Manual,Hyderabad,4.75 Lakh*,Honda,25.8 kmpl,1498 CC,98.6bhp,3600rpm,5,Maroon,5 Speed,,,,,,17 Seconds,4,4,4,DOHC,
+317,2016,"61,241 kms",First Owner,Petrol,Manual,Hyderabad,4.8 Lakh*,Hyundai,19.81 kmpl,1086 CC,68.05bhp,5500rpm,5,Grey,5 Speed,,,,,,,5,4,3,SOHC,MPFI
+318,2016,"79,432 kms",First Owner,Petrol,Manual,Hyderabad,4.84 Lakh*,Hyundai,18.9 kmpl,1197 CC,81.86 bhp,,5,Red,5 Speed,,,,,,,,,,,
+319,2013,"45,000 kms",First Owner,Diesel,Manual,Hyderabad,4.85 Lakh*,Maruti,22.9 kmpl,1248 CC,74bhp,4000rpm,5,White,5 Speed,FWD,,,,,13.75 Seconds,5,4,4,DOHC,CRDI
+320,2012,"1,12,898 kms",First Owner,Diesel,Manual,Hyderabad,4.85 Lakh*,Mahindra,12.05 kmpl,2179 CC,120 bhp,,8,White,6 Speed,2 WD,,,,,,,,,,
+321,2014,"46,508 kms",First Owner,Diesel,Manual,Hyderabad,4.89 Lakh*,Ford,20.0 kmpl,1399 CC,68.05bhp,4000rpm,5,Red,5 Speed,FWD,,,,,,,4,2,SOHC,Common Rail
+322,2007,"2,70,000 kms",Second Owner,Diesel,Manual,Hyderabad,4.9 Lakh*,Toyota,12.8 kmpl,2494 CC,102 bhp,,8,Light Blue,5 Speed,,,,,,,,,,,
+323,2016,"97,382 kms",First Owner,Diesel,Manual,Hyderabad,4.9 Lakh*,Ford,25.83 kmpl,1498 CC,99 bhp,,5,Silver,5 Speed,FWD,,,,,,,,,,
+324,2014,"44,000 kms",Second Owner,Diesel,Manual,Hyderabad,4.9 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88.8bhp,4200rpm,5,Grey,5 Speed,,,,,,,5,4,4,DOHC,Direct Injection
+325,2010,"90,000 kms",First Owner,Petrol,Manual,Hyderabad,4.9 Lakh*,Volkswagen,14.0 kmpl,1595 CC,102 ," 5,600 (PS",5,Blue,5 Speed,,,,,,,4,4,4,,
+326,2014,"74,000 kms",First Owner,Petrol,Manual,Hyderabad,4.95 Lakh*,Maruti,19.1 kmpl,1197 CC,85.8bhp,6000rpm,5,White,5 Speed,FWD,,,,,,4,4,4,,MPFI
+327,2017,"36,000 kms",First Owner,Petrol,Manual,Hyderabad,4.95 Lakh*,Nissan,19.49 kmpl,1198 CC,67.04bhp,5000rpm,5,Blue,5 Speed,,,,,,15 Seconds,5,3,4,DOHC,Electronic Fuel Injection
+328,2018,"18,000 kms",First Owner,Petrol,Manual,Hyderabad,4.95 Lakh*,Honda,18.5 kmpl,1198 CC,86.8bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,5,4,4,SOHC,PGM - Fi
+329,2015,"85,106 kms",First Owner,Diesel,Manual,Hyderabad,4.95 Lakh*,Honda,25.8 kmpl,1498 CC,98.6bhp,3600rpm,5,White,5 Speed,,,,,,,4,4,4,DOHC,
+330,2013,"75,000 kms",First Owner,Diesel,Manual,Hyderabad,4.95 Lakh*,Volkswagen,20.34 kmpl,1498 CC,103.2bhp,4400rpm,5,Blue,5 Speed,FWD,,,,,11.94 Seconds,4,4,4,DOHC,Direct Injection
+331,2013,"37,723 kms",First Owner,Diesel,Manual,Hyderabad,4.95 Lakh*,Hyundai,21.9 kmpl,1396 CC,88.76bhp,4000rpm,5,Grey,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+332,2010,"1,21,411 kms",First Owner,Diesel,Automatic,Hyderabad,4.95 Lakh*,Skoda,17.2 kmpl,1968 CC,138.08bhp,4200rpm,5,White,6 Speed,,,,Disc,,,4,4,4,DOHC,Direct Injection
+333,2013,"1,08,000 kms",First Owner,Diesel,Manual,Hyderabad,4.99 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,White,6 Speed,FWD,,,,,,4,4,4,DOHC,CRDI
+334,2004,"1,81,400 kms",First Owner,Petrol,Manual,Hyderabad,5 Lakh*,Honda,11.9 kmpl,2354 CC,144 ," 5,500 (PS",5,Desert Mist,5 Speed,,Power,Ventilated Disc,Disc,206 kmph,10.8 seconds,4,4,4,DOHC,PGM-FI (Programmed Fuel Injection)
+335,2014,"1,01,897 kms",First Owner,Diesel,Manual,Hyderabad,5 Lakh*,Maruti,25.2 kmpl,1248 CC,74bhp,4000rpm,5,Silver,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+336,2015,"25,000 kms",First Owner,Petrol,Manual,Hyderabad,5 Lakh*,Maruti,22.0 kmpl,1197 CC,81.80bhp,6000rpm,5,Silver,5,,,,,,,,4,4,null,MPFi
+337,2015,"73,593 kms",First Owner,Petrol,Manual,Hyderabad,5 Lakh*,Maruti,22.0 kmpl,1197 CC,81.80bhp,6000rpm,5,Red,5,,,,,,,5,4,4,null,MPFi
+338,2016,"91,288 kms",First Owner,Diesel,Manual,Hyderabad,5.08 Lakh*,Hyundai,24.0 kmpl,1120 CC,70bhp,4000rpm,5,Star Dust,5 Speed,,,,,,,,3,4,DOHC,CRDi
+339,2014,"47,738 kms",First Owner,Petrol,Manual,Hyderabad,5.08 Lakh*,Hyundai,19.1 kmpl,1197 CC,82bhp,6000rpm,5,White,5 Speed,,,,,,14.2 Seconds,4,4,4,DOHC,Direct Injection
+340,2019,"21,000 kms",First Owner,Petrol,Manual,Hyderabad,5.1 Lakh*,Maruti,23.1 kmpl,998 CC,67.04bhp,6000rpm,5,Silver,5 Speed,,,,,150 Kmph,15.05 Seconds,5,3,4,DOHC,MPFi
+341,2014,"29,000 kms",First Owner,Petrol,Manual,Hyderabad,5.1 Lakh*,Maruti,18.6 kmpl,1197 CC,85.8bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+342,2018,"57,000 kms",First Owner,Petrol,Automatic,Hyderabad,5.1 Lakh*,Maruti,23.1 kmpl,998 CC,67.04bhp,6000rpm,5,Grey,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+343,2018,"1,75,000 kms",Second Owner,Diesel,Manual,Hyderabad,5.2 Lakh*,Hyundai,25.4 kmpl,1186 CC,73.97bhp,4000rpm,5,,5 Speed,FWD,,,,,,,3,4,DOHC,CRDI
+344,2012,"81,241 kms",First Owner,Petrol,Automatic,Hyderabad,5.25 Lakh*,Honda,15.6 kmpl,1497 CC,116.3bhp,6600rpm,5,Silver,5 Speed AT+ Paddle Shifters,FWD,,,,,,4,4,4,SOHC,EFI(Electronic Fuel Injection)
+345,2015,"41,400 kms",First Owner,Petrol,Manual,Hyderabad,5.25 Lakh*,Volkswagen,15.04 kmpl,1598 CC,103.2bhp,5250rpm,5,Blue,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+346,2010,"85,321 kms",First Owner,Petrol,Automatic,Hyderabad,5.25 Lakh*,Skoda,13.7 kmpl,1798 CC,157.75bhp,4500-6200rpm,5,Brown,7 Speed,FWD,,,,,9.1 Seconds,4,4,4,DOHC,Direct Injection
+347,2018,"39,000 kms",First Owner,Petrol,Manual,Hyderabad,5.25 Lakh*,Tata,23.84 kmpl,1199 CC,84bhp,6000rpm,5,Silver,5 Speed,,,,,,,5,3,4,DOHC,MPFi
+348,2007,"96,000 kms",First Owner,Petrol,Automatic,Hyderabad,5.25 Lakh*,Honda,10.1 kmpl,2354 CC,152 PS , 6000 rpm,5,White,5 Speed,,,,,,,5,4,4,DOHC,PGM-FI
+349,2013,"93,000 kms",First Owner,Diesel,Manual,Hyderabad,5.25 Lakh*,Volkswagen,22.07 kmpl,1199 CC,73.9bhp,4200rpm,5,White,5 Speed,FWD,,Disc,Drum,164.1km/hr,14.4 Seconds,5,3,4,,CRDI
+350,2014,"1,20,000 kms",Second Owner,Diesel,Manual,Hyderabad,5.3 Lakh*,Maruti,20.77 kmpl,1248 CC,88.76bhp,4000rpm,7,,5 Speed,FWD,,,Drum,160 kmph,13.3 Seconds,5,4,4,DOHC,CRDI
+351,2016,"33,421 kms",First Owner,Petrol,Manual,Hyderabad,5.3 Lakh*,Hyundai,18.9 kmpl,1197 CC,82 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+352,2015,"20,995 kms",First Owner,Petrol,Manual,Hyderabad,5.3 Lakh*,Honda,18.5 kmpl,1198 CC,86.8 bhp,,5,Silver,5 Speed,FWD,,,,,,,,,,
+353,2017,"50,000 kms",First Owner,Petrol,Manual,Hyderabad,5.3 Lakh*,Maruti,21.63 kmpl,998 CC,67.05 bhp,,5,Silver,5 Speed,,,,,,,,,,,
+354,2019,"47,000 kms",First Owner,Petrol,Manual,Hyderabad,5.35 Lakh*,Maruti,21.79 kmpl,998 CC,67.05 bhp,,5,Silver,5 Speed,,,,,,,,,,,
+355,2013,"86,000 kms",First Owner,Diesel,Manual,Hyderabad,5.35 Lakh*,Renault,19.01 kmpl,1461 CC,108.45bhp,3900rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+356,2018,"31,700 kms",First Owner,Petrol,Automatic,Hyderabad,5.39 Lakh*,Tata,23.84 kmpl,1199 CC,83.83bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,5,3,4,DOHC,MPFi
+357,2018,"14,611 kms",First Owner,Petrol,Automatic,Hyderabad,5.4 Lakh*,Maruti,23.1 kmpl,998 CC,67.04 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+358,2017,"20,000 kms",First Owner,Petrol,Manual,Hyderabad,5.4 Lakh*,Tata,23.84 kmpl,1199 CC,84 bhp,,5,Maroon,5 Speed,,,,,,,,,,,
+359,2016,"22,103 kms",First Owner,Petrol,Manual,Hyderabad,5.4 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.83 bhp,,5,Pristine blue,5 Speed,,,,,,,,,,,
+360,2014,"69,380 kms",First Owner,Diesel,Manual,Hyderabad,5.4 Lakh*,Hyundai,24.4 kmpl,1120 CC,71.01bhp,4000rpm,5,Silver,5 Speed,FWD,,,,,18.6 Seconds,4,3,4,DOHC,Direct Injection
+361,2013,"60,000 kms",First Owner,Diesel,Manual,Hyderabad,5.4 Lakh*,Mahindra,16.55 kmpl,2498 CC,105bhp,3800rpm,7,Black,5 Speed,,,,,,,3,4,4,,Common Rail
+362,2017,"91,787 kms",First Owner,Diesel,Manual,Hyderabad,5.45 Lakh*,Volkswagen,21.66 kmpl,1498 CC,108.62 bhp,,5,Brown,5 Speed,FWD,,,,,,,,,,
+363,2015,"77,777 kms",First Owner,Diesel,Manual,Hyderabad,5.45 Lakh*,Renault,19.87 kmpl,1461 CC,83.8 bhp,,5,Brown,5 speed,,,,,,,,,,,
+364,2019,"13,990 kms",First Owner,Petrol,Manual,Hyderabad,5.45 Lakh*,Maruti,20.89 kmpl,1197 CC,81.80bhp,6000rpm,5,Nexa Blue,5 Speed,,,,,,,5,4,4,SOHC,MPFI
+365,2015,"92,000 kms",First Owner,Diesel,Manual,Hyderabad,5.45 Lakh*,Mahindra,18.49 kmpl,1493 CC,100 bhp,,7,White,5 Speed,,,,,,,,,,,
+366,2016,"43,800 kms",First Owner,Petrol,Automatic,Hyderabad,5.45 Lakh*,Nissan,17.97 kmpl,1498 CC,99.6bhp,5600rpm,5,Black,5 Speed,,Power,Disc,Drum,165 Kmph,13 Seconds,4,4,4,DOHC,EFI
+367,2015,"58,000 kms",First Owner,Petrol,Manual,Hyderabad,5.5 Lakh*,Maruti,20.4 kmpl,1197 CC,81.80bhp,6000rpm,5,White,5 Speed,,,,,,,5,4,4,DOHC,MPFI
+368,2014,"88,434 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88.8 bhp,,5,White,5 Speed,FWD,,,,,,,,,,
+369,2013,"81,910 kms",First Owner,Petrol,Manual,Hyderabad,5.5 Lakh*,Honda,16.8 kmpl,1497 CC,116.3bhp,6600rpm,5,Silver,5 Speed,FWD,,,,,,4,4,4,SOHC,EFI(Electronic Fuel Injection)
+370,2018,"32,352 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Volkswagen,21.66 kmpl,1498 CC,108.62bhp,4000,5,Blue,5 Speed,,,,,,,,4,4,DOHC,CRDI
+371,2018,"9,000 kms",First Owner,Petrol,Manual,Hyderabad,5.5 Lakh*,Datsun,19.44 kmpl,1198 CC,67bhp,5000rpm,7,Brown,5 Speed,,,,,,,5,3,4,DOHC,EGIS
+372,2014,"72,245 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Honda,24.2 kmpl,1498 CC,98.6bhp,3600rpm,7,White,5 Speed,FWD,,,,,,5,4,4,DOHC,PGM-FI
+373,2007,"1,04,061 kms",Second Owner,Petrol,Automatic,Hyderabad,5.5 Lakh*,Honda,10.1 kmpl,2354 CC,152 PS , 6000 rpm,5,Black,5 Speed,,,,,182 kmph,11.2 seconds,5,4,4,DOHC,PGM-FI
+374,2015,"45,510 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88.8bhp,4200rpm,5,,5 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+375,2014,"82,000 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Renault,19.87 kmpl,1461 CC,83.8bhp,3750rpm,5,White,5 speed,,,,,,,5,4,4,DOHC,CRDi
+376,2013,"72,000 kms",First Owner,Petrol,Manual,Hyderabad,5.5 Lakh*,Honda,16.8 kmpl,1497 CC,116.3bhp,6600rpm,5,Silver,5 Speed,,,,,,,4,4,4,SOHC,EFI (Electronic Fuel Injection)
+377,2008,"2,36,000 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Toyota,12.8 kmpl,2494 CC,102,"3,600 (PS",8,beige,5 Speed,,,,,,17.5 seconds,5,4,4,DOHC,CRDI
+378,2017,"76,000 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Maruti,27.39 kmpl,1248 CC,74bhp,4000rpm,5,Brown,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+379,2015,"62,250 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Honda,24.2 kmpl,1498 CC,98.6 bhp,,7,Silver,5 Speed,,,,,,,,,,,
+380,2013,"78,521 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Renault,19.87 kmpl,1461 CC,83.8bhp,3750rpm,5,Grey,5 speed,,Power,Ventilated Disc,Drum,156 Kmph,13.9 Seconds,5,4,4,DOHC,CRDi
+381,2007,"81,000 kms",First Owner,Petrol,Manual,Hyderabad,5.5 Lakh*,Mercedes-Benz,11.7 kmpl,1796 CC,178 ," 5,600 (PS",5,White,6 Speed,,,,,230 kmph,8.8 seconds,4,4,0,,
+382,2012,"1,10,649 kms",Second Owner,Diesel,Automatic,Hyderabad,5.5 Lakh*,Hyundai,19.08 kmpl,1582 CC,126.32bhp,4000rpm,5,White,4 Speed,FWD,,,,,10.62 Seconds,4,4,4,DOHC,CRDI
+383,2019,"21,000 kms",First Owner,Petrol,Manual,Hyderabad,5.5 Lakh*,Maruti,21.63 kmpl,998 CC,67.05 bhp,,5,Silver,5 Speed,,,,,,,,,,,
+384,2014,"65,000 kms",First Owner,Petrol,Manual,Hyderabad,5.5 Lakh*,Maruti,19.1 kmpl,1197 CC,85.8bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,4,4,4,,MPFI
+385,2013,"80,000 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Maruti,23.4 kmpl,1248 CC,74bhp,4000rpm,5,Grey,5 Speed,FWD,,,,,,4,4,4,,CRDI
+386,2017,"84,340 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Honda,25.8 kmpl,1498 CC,98.6 bhp,,5,Maroon,5 Speed,,,,,,,,,,,
+387,2012,"76,000 kms",First Owner,Diesel,Manual,Hyderabad,5.5 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,White,6 Speed,FWD,,,,,,4,4,4,DOHC,CRDI
+388,2014,"92,000 kms",First Owner,Diesel,Manual,Hyderabad,5.55 Lakh*,Nissan,20.45 kmpl,1461 CC,83.8bhp,3750rpm,5,Green,5 Speed,,,,,,,5,4,4,DOHC,CRDi
+389,2014,"92,000 kms",First Owner,Diesel,Manual,Hyderabad,5.55 Lakh*,Nissan,20.45 kmpl,1461 CC,83.8bhp,3750rpm,5,Grey,5 Speed,,,Disc,Drum,156 Kmph,14 Seconds,5,4,4,DOHC,CRDi
+390,2018,"32,230 kms",First Owner,Diesel,Manual,Hyderabad,5.6 Lakh*,Hyundai,24.0 kmpl,1186 CC,73.97bhp,4000rpm,5,white and black,5 Speed,,,,,,,,3,4,DOHC,CRDi
+391,2006,"1,90,417 kms",First Owner,Diesel,Manual,Hyderabad,5.6 Lakh*,Toyota,12.8 kmpl,2494 CC,102,"3,600 (PS",7,Silver,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+392,2016,"80,421 kms",First Owner,Diesel,Manual,Hyderabad,5.65 Lakh*,Maruti,25.2 kmpl,1248 CC,74bhp,4000rpm,5,Grey,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+393,2008,"1,02,358 kms",First Owner,Diesel,Manual,Hyderabad,5.65 Lakh*,Toyota,12.8 kmpl,2494 CC,102,"3,600 (PS",8,Silver,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+394,2018,"86,000 kms",First Owner,Diesel,Manual,Hyderabad,5.65 Lakh*,Honda,25.8 kmpl,1498 CC,98.6bhp,3600rpm,5,White,5 Speed,,,,,,,4,4,4,DOHC,CRDi
+395,2016,"53,000 kms",Second Owner,Petrol,Manual,Hyderabad,5.65 Lakh*,Honda,18.7 kmpl,1199 CC,88.7bhp,6000rpm,5,Orange,5 Speed,FWD,,,Drum,172 Kmph,13.7 Seconds,5,4,4,SOHC,PGM - Fi
+396,2017,"49,279 kms",First Owner,Petrol,Automatic,Hyderabad,5.67 Lakh*,Tata,23.84 kmpl,1199 CC,83.83bhp,6000rpm,5,Golden,5 Speed,FWD,,,,,,,3,4,DOHC,MPFi
+397,2016,"58,645 kms",First Owner,Diesel,Manual,Hyderabad,5.7 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73bhp,4000rpm,5,White,6 Speed,,,,Drum,180 Kmph,11.9 Seconds,5,4,4,DOHC,CRDI
+398,2012,"95,250 kms",First Owner,Diesel,Manual,Hyderabad,5.7 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,Maroon,6 Speed,FWD,,,,,10.62 Seconds,4,4,4,DOHC,CRDI
+399,2017,"19,959 kms",First Owner,Petrol,Manual,Hyderabad,5.74 Lakh*,Maruti,20.89 kmpl,1197 CC,81.80 bhp,,5,Uptown redroof black,5 Speed,FWD,,,,,,,,,,
+400,2012,"88,000 kms",First Owner,Diesel,Manual,Hyderabad,5.75 Lakh*,Toyota,21.43 kmpl,1364 CC,87.2bhp,3800rpm,5,White,6 Speed,FWD,,,,,11.8 Seconds,4,4,4,DOHC,CRDi
+401,2015,"70,000 kms",First Owner,Diesel,Manual,Hyderabad,5.75 Lakh*,Mahindra,18.49 kmpl,1493 CC,100 bhp,,7,Blue,5 Speed,RWD,,,,,,,,,,
+402,2012,"1,24,000 kms",First Owner,Diesel,Manual,Hyderabad,5.75 Lakh*,Maruti,20.77 kmpl,1248 CC,88.76bhp,4000rpm,7,Grey,5 Speed,FWD,,,,,15 Seconds,5,4,4,DOHC,CRDI
+403,2015,"1,03,292 kms",First Owner,Diesel,Manual,Hyderabad,5.75 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88bhp,4200rpm,5,Blue,5 Speed,,,,,,,5,4,4,DOHC,Direct Injection
+404,2014,"75,000 kms",First Owner,Diesel,Manual,Hyderabad,5.75 Lakh*,Toyota,23.59 kmpl,1364 CC,67.06bhp,3800rpm,5,Grey,5 Speed,FWD,,,,,,,4,2,SOHC,CRDi
+405,2011,"51,000 kms",First Owner,Petrol,Automatic,Hyderabad,5.75 Lakh*,Honda,15.6 kmpl,1497 CC,116.3 bhp,,5,urban titanium,5 Speed AT+ Paddle Shifters,FWD,,,,,,,,,,
+406,2017,"30,400 kms",First Owner,Petrol,Manual,Hyderabad,5.75 Lakh*,Volkswagen,17.0 kmpl,1198 CC,73.75bhp,5400rpm,5,Blue,5 Speed,,,,,,,,3,4,DOHC,MPFI
+407,2014,"85,421 kms",First Owner,Diesel,Manual,Hyderabad,5.75 Lakh*,Ford,22.7 kmpl,1498 CC,89.84bhp,3750rpm,5,White,5 Speed,FWD,,,,,13.5 Seconds,5,4,2,SOHC,Direct Injection
+408,2015,"5,80,000 kms",First Owner,Petrol,Automatic,Hyderabad,5.8 Lakh*,Hyundai,18.9 kmpl,1197 CC,82 bhp,,5,Grey,4 Speed,FWD,,,,,,,,,,
+409,2015,"1,57,000 kms",First Owner,Diesel,Manual,Hyderabad,5.85 Lakh*,Mahindra,18.49 kmpl,1493 CC,100 bhp,,7,White,5 Speed,,,,,,,,,,,
+410,2015,"92,341 kms",First Owner,Diesel,Manual,Hyderabad,5.85 Lakh*,Hyundai,21.19 kmpl,1396 CC,88.73bhp,4000rpm,5,Maroon,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+411,2013,"80,000 kms",First Owner,Diesel,Manual,Hyderabad,5.85 Lakh*,Maruti,28.4 kmpl,1248 CC,74.02bhp,4000rpm,5,Grey,5 Speed,FWD,,,Drum,,13.03 Seconds,4,4,4,DOHC,CRDI
+412,2013,"72,000 kms",First Owner,Diesel,Manual,Hyderabad,5.85 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,Silver,6 Speed,FWD,,,Disc,190km/hr,10.62 Seconds,4,4,4,DOHC,CRDI
+413,2014,"67,604 kms",First Owner,Diesel,Manual,Hyderabad,5.85 Lakh*,Maruti,26.21 kmpl,1248 CC,88.5bhp,4000rpm,5,Red,5 Speed,,,,Drum,160 kmph,15 Seconds,4,4,4,DOHC,CRDI
+414,2017,"48,676 kms",First Owner,Petrol,Manual,Hyderabad,5.89 Lakh*,Ford,18.16 kmpl,1196 CC,86.8 bhp,,5,White,5 Speed,FWD,,,,,,,,,,
+415,2015,"68,289 kms",First Owner,Diesel,Manual,Hyderabad,5.9 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88.8 bhp,,5,Orange,5 Speed,FWD,,,,,,,,,,
+416,2012,"1,20,000 kms",First Owner,Diesel,Manual,Hyderabad,5.9 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,Black,6 Speed,FWD,,,,,10.62 Seconds,4,4,4,DOHC,CRDI
+417,2017,"39,150 kms",First Owner,Petrol,Manual,Hyderabad,5.95 Lakh*,Hyundai,18.9 kmpl,1197 CC,81.86 bhp,,5,Silver,5 Speed,FWD,,,,,,,,,,
+418,2015,"80,000 kms",First Owner,Diesel,Automatic,Hyderabad,5.95 Lakh*,Skoda,21.66 kmpl,1498 CC,103.52 bhp,,5,White,7 Speed,FWD,,,,,,,,,,
+419,2013,"1,00,000 kms",First Owner,Diesel,Manual,Hyderabad,5.95 Lakh*,Ford,22.7 kmpl,1498 CC,89.84bhp,3750rpm,5,Silver,5 Speed,FWD,,,,182 Kmph,13.5 Seconds,5,4,2,SOHC,Direct Injection
+420,2015,"92,620 kms",First Owner,Diesel,Manual,Hyderabad,5.95 Lakh*,Ford,21.7 kmpl,1498 CC,98.96 bhp,,5,White,5 Speed,FWD,,,,,,,4,4,SOHC,Direct Injection
+421,2017,"59,891 kms",First Owner,Petrol,Manual,Hyderabad,5.95 Lakh*,Maruti,20.4 kmpl,1197 CC,81.80bhp,6000rpm,5,Grey,5 Speed,,,,,,12.6 Seconds,5,4,4,DOHC,MPFI
+422,2015,"83,000 kms",First Owner,Diesel,Manual,Hyderabad,5.99 Lakh*,Honda,26.0 kmpl,1498 CC,98.6 bhp,,5,golden brown,6 Speed,,,,,,,,,,,
+423,2016,"68,000 kms",First Owner,Diesel,Manual,Hyderabad,5.99 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88 bhp,,5,White,5 Speed,FWD,,,,,,,,,,
+424,2015,"83,473 kms",First Owner,Diesel,Manual,Hyderabad,5.99 Lakh*,Maruti,28.4 kmpl,1248 CC,74 bhp,,5,Grey,5,FWD,,,,,,,,,,
+425,2017,"20,600 kms",First Owner,Petrol,Manual,Hyderabad,5.99 Lakh*,Ford,18.12 kmpl,1196 CC,86.8bhp,6300rpm,5,Red,5 Speed,FWD,,,Drum,157 Kmph,15.7 Seconds,4,4,4,DOHC,Direct Injection
+426,2016,"88,000 kms",First Owner,Petrol,Manual,Hyderabad,5.99 Lakh*,Maruti,23.26 kmpl,1197 CC,88.50 bhp,,5,magma grey,5 Speed,,,,,,,,,,,
+427,2010,"1,14,505 kms",First Owner,Diesel,Manual,Hyderabad,6 Lakh*,Tata,13.7 kmpl,2179 CC,138.1 bhp,,7,White,5 Speed,AWD,,,,,,,,,,
+428,2018,"50,000 kms",First Owner,Diesel,Manual,Hyderabad,6 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73bhp,4000rpm,5,White,6 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+429,2017,"81,578 kms",First Owner,Petrol,Manual,Hyderabad,6 Lakh*,Maruti,20.85 kmpl,1197 CC,83.14 bhp,,5,Silver,5 Speed,,,,,,,,,,,
+430,2015,"80,000 kms",First Owner,Diesel,Manual,Hyderabad,6 Lakh*,Maruti,28.4 kmpl,1248 CC,74.02bhp,4000rpm,5,Grey,5 Speed,,,,,,,4,4,4,DOHC,CRDI
+431,2015,"59,000 kms",First Owner,Diesel,Manual,Hyderabad,6 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88bhp,4200rpm,5,Red,5 Speed,FWD,,Disc,Drum,163 Kmph,16.1 Seconds,5,4,4,DOHC,Direct Injection
+432,2014,"84,000 kms",First Owner,Petrol,Automatic,Hyderabad,6 Lakh*,Volkswagen,17.21 kmpl,1197 CC,103.6 bhp,,5,Black,7 Speed,FWD,,,,,,,,,,
+433,2016,"70,315 kms",First Owner,Petrol,Manual,Hyderabad,6.05 Lakh*,Honda,18.2 kmpl,1199 CC,88.7bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,,4,4,SOHC,PGM - Fi
+434,2016,"26,190 kms",First Owner,Petrol,Manual,Hyderabad,6.07 Lakh*,Maruti,20.85 kmpl,1197 CC,83.14bhp,6000rpm,5,Red,5 Speed,,,,,,,4,4,4,DOHC,MPFI
+435,2016,"63,199 kms",First Owner,Diesel,Manual,Hyderabad,6.1 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88bhp,4200rpm,5,Brown,5 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+436,2016,"69,000 kms",First Owner,Diesel,Automatic,Hyderabad,6.1 Lakh*,Maruti,26.59 kmpl,1248 CC,74bhp,4000rpm,5,Silver,5 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+437,2018,"19,541 kms",Second Owner,Diesel,Manual,Hyderabad,6.1 Lakh*,Hyundai,25.4 kmpl,1186 CC,73.97bhp,4000rpm,5,Red,5 Speed,,,,Drum,156 Kmph,,4,3,4,DOHC,CRDI
+438,2017,"45,130 kms",First Owner,Petrol,Automatic,Hyderabad,6.15 Lakh*,Honda,16.5 kmpl,1198 CC,86.8bhp,6000rpm,5,White,5 Speed,FWD,,,,,16 Seconds,5,4,4,SOHC,PGM - Fi
+439,2016,"98,000 kms",First Owner,Diesel,Manual,Hyderabad,6.15 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88.8bhp,4200rpm,5,Grey,5 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+440,2017,"30,946 kms",First Owner,Diesel,Manual,Hyderabad,6.16 Lakh*,Hyundai,24.0 kmpl,1186 CC,73.97bhp,4000rpm,5,Red,5 Speed,,,Disc,Drum,151.63 kmph,13.21 Seconds,5,3,4,DOHC,CRDi
+441,2012,"1,05,000 kms",First Owner,Diesel,Manual,Hyderabad,6.2 Lakh*,Skoda,17.72 kmpl,1968 CC,108.49bhp,4200rpm,5,Grey,5 Speed,,,,,,,5,4,4,DOHC,Direct Injection
+442,2017,"62,514 kms",First Owner,Petrol,Manual,Hyderabad,6.2 Lakh*,Maruti,22.0 kmpl,1197 CC,81.80 bhp,,5,Grey,5,,,,,,,,,,,
+443,2015,"37,900 kms",First Owner,Petrol,Automatic,Hyderabad,6.25 Lakh*,Honda,19.0 kmpl,1199 CC,88.7bhp,6000rpm,5,White,5 Speed,FWD,,,,,,5,4,4,SOHC,PGM - Fi
+444,2015,"70,000 kms",First Owner,Diesel,Manual,Hyderabad,6.25 Lakh*,Nissan,19.3 kmpl,1461 CC,84.8 bhp,,7,Grey,5 Speed,FWD,,,,,,,,,,
+445,2015,"65,000 kms",First Owner,Petrol,Automatic,Hyderabad,6.25 Lakh*,Volkswagen,17.21 kmpl,1197 CC,103.6bhp,5000rpm,5,Red,7 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+446,2015,"52,000 kms",First Owner,Diesel,Manual,Hyderabad,6.25 Lakh*,Maruti,28.4 kmpl,1248 CC,74.02 bhp,,5,White,5 Speed,FWD,,,,,,,,,,
+447,2021,"3,600 kms",First Owner,Petrol,Manual,Hyderabad,6.25 Lakh*,Maruti,20.52 kmpl,1197 CC,81.80bhp,6000rpm,5,Grey,5 Speed,,,,,,,5,4,4,DOHC,MPFI
+448,2019,"19,960 kms",First Owner,Petrol,Manual,Hyderabad,6.25 Lakh*,Renault,20.0 kmpl,999 CC,71 bhp,,7,Silver,5-Speed,,,,,,,,,,,
+449,2013,"92,321 kms",First Owner,Diesel,Automatic,Hyderabad,6.25 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,White,4 Speed,FWD,,,,190km/hr,10.62 Seconds,4,4,4,DOHC,CRDI
+450,2017,"46,396 kms",First Owner,Diesel,Manual,Hyderabad,6.28 Lakh*,Maruti,25.2 kmpl,1248 CC,74bhp,4000rpm,5,Silver,5 Speed,,,,,,14.8 Seconds,5,4,4,DOHC,CRDI
+451,2017,"53,415 kms",First Owner,Petrol,Manual,Hyderabad,6.38 Lakh*,Maruti,22.0 kmpl,1197 CC,81.80bhp,6000rpm,5,Pearl arctic white,5 Speed,,,,,,,4,4,4,DOHC,MPFI
+452,2015,"62,000 kms",First Owner,Petrol,Manual,Hyderabad,6.4 Lakh*,Maruti,21.21 kmpl,1197 CC,81.80bhp,6000rpm,5,White,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+453,2016,"68,604 kms",First Owner,Diesel,Manual,Hyderabad,6.4 Lakh*,Maruti,26.59 kmpl,1248 CC,74bhp,4000rpm,5,White,5 Speed,,,,,,13.8 Seconds,4,4,4,DOHC,CRDI
+454,2017,"1,02,000 kms",First Owner,Diesel,Manual,Hyderabad,6.45 Lakh*,Maruti,17.8 kmpl,1248 CC,null bhp,,5,Red,,,Power,,,,,,4,4,null,null
+455,2015,"57,000 kms",First Owner,Diesel,Manual,Hyderabad,6.45 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+456,2014,"53,000 kms",First Owner,Petrol,Automatic,Hyderabad,6.45 Lakh*,Ford,16.5 kmpl,1499 CC,110bhp,6300rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+457,2014,"1,10,132 kms",First Owner,Diesel,Manual,Hyderabad,6.45 Lakh*,Mahindra,15.1 kmpl,2179 CC,140bhp,3750rpm,7,Black,6 Speed,AWD,,,,,,5,4,4,DOHC,Direct Injection
+458,2020,"7,100 kms",First Owner,Petrol,Manual,Hyderabad,6.45 Lakh*,Hyundai,20.7 kmpl,1197 CC,81.86bhp,6000rpm,5,Aqua Teal,5 speed,FWD,,,,,,5,4,4,DOHC,MPFI
+459,2018,"35,000 kms",First Owner,Diesel,Manual,Hyderabad,6.49 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88 bhp,,5,,5 Speed,FWD,,,,,,,,,,
+460,2017,"31,500 kms",First Owner,Diesel,Manual,Hyderabad,6.49 Lakh*,Nissan,22.71 kmpl,1461 CC,84.8bhp,3750rpm,5,Silver,5 Speed,,,,,,,,4,2,SOHC,Common Rail
+461,2013,"1,95,000 kms",Second Owner,Diesel,Manual,Hyderabad,6.5 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,White,6 Speed,FWD,,Disc,Disc,190km/hr,10.62 Seconds,4,4,4,DOHC,CRDI
+462,2017,"80,000 kms",First Owner,Diesel,Manual,Hyderabad,6.5 Lakh*,Ford,23.0 kmpl,1498 CC,98.96bhp,3750rpm,5,White,5 Speed,,,,,,,4,4,4,SOHC,Direct Injection
+463,2008,"1,52,000 kms",First Owner,Diesel,Manual,Hyderabad,6.5 Lakh*,Toyota,12.8 kmpl,2494 CC,102,"3,600 (PS",8,Red,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+464,2013,"1,42,930 kms",First Owner,Diesel,Manual,Hyderabad,6.5 Lakh*,Mahindra,12.05 kmpl,2179 CC,120bhp,4000rpm,8,Black,6 Speed,2 WD,,,Drum,152km/hr,16.5 seconds,5,4,4,,CRDi
+465,2019,"4,696 kms",First Owner,Petrol,Manual,Hyderabad,6.5 Lakh*,Renault,20.0 kmpl,999 CC,71bhp,6250rpm,7,Red,5-Speed,,,,,,,,3,4,DOHC,Multi Point Fuel Injection
+466,2008,"1,44,000 kms",First Owner,Petrol,Automatic,Hyderabad,6.5 Lakh*,Honda,10.1 kmpl,2354 CC,152 PS , 6000 rpm,5,White,5 Speed,,,,,182 kmph,11.2 seconds,5,4,4,DOHC,PGM-FI
+467,2013,"1,35,000 kms",First Owner,Diesel,Manual,Hyderabad,6.5 Lakh*,Mahindra,12.05 kmpl,2179 CC,120bhp,4000rpm,8,Grey,5 Speed,FWD,,,,,,5,4,4,,CRDI
+468,2011,"75,000 kms",First Owner,Diesel,Automatic,Hyderabad,6.5 Lakh*,Skoda,17.2 kmpl,1968 CC,138.1bhp,4200rpm,5,Maroon,6 Speed,,,,,,,4,4,4,DOHC,Direct Injection
+469,2012,"1,14,323 kms",First Owner,Diesel,Automatic,Hyderabad,6.5 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32bhp,4000rpm,5,White,4 Speed,FWD,,,Disc,190km/hr,10.62 Seconds,4,4,4,DOHC,CRDI
+470,2017,"13,000 kms",First Owner,Petrol,Manual,Hyderabad,6.5 Lakh*,Maruti,21.4 kmpl,1197 CC,83.1bhp,6000rpm,5,Blue,5 Speed,,,,,,,5,4,4,DOHC,MPFI
+471,2020,"12,000 kms",First Owner,Petrol,Manual,Hyderabad,6.5 Lakh*,Tata,19.05 kmpl,1199 CC,84.88bhp,6000rpm,5,Silver,5 Speed,,,,,,,,3,4,,EFI
+472,2014,"65,000 kms",First Owner,Petrol,Manual,Hyderabad,6.5 Lakh*,Hyundai,17.01 kmpl,1591 CC,121.3bhp,6300rpm,5,White,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+473,2017,"88,000 kms",First Owner,Diesel,Manual,Hyderabad,6.55 Lakh*,Maruti,19.3 kmpl,1248 CC,73.9bhp,4000rpm,5,Silver,5 Speed,2 WD,,,,,,,4,4,DOHC,CRDI
+474,2019,"10,000 kms",First Owner,Petrol,Manual,Hyderabad,6.56 Lakh*,Maruti,21.4 kmpl,1197 CC,83.1bhp,6000rpm,5,Grey,5 Speed,,,,,,,,4,4,DOHC,MPFI
+475,2014,"84,372 kms",First Owner,Diesel,Manual,Hyderabad,6.6 Lakh*,Maruti,20.77 kmpl,1248 CC,88.76bhp,4000rpm,7,Blue,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+476,2014,"84,000 kms",Test Drive Car,Diesel,Manual,Hyderabad,6.6 Lakh*,Maruti,20.77 kmpl,1248 CC,88.76bhp,4000rpm,7,Blue,5 Speed,,,,,,13.3 Seconds,5,4,4,DOHC,CRDI
+477,2019,"18,624 kms",First Owner,Petrol,Automatic,Hyderabad,6.6 Lakh*,Maruti,22.0 kmpl,1197 CC,81.80bhp,6000rpm,5,Grey,5,,,,,,,,4,4,null,MPFi
+478,2017,"35,852 kms",First Owner,Petrol,Automatic,Hyderabad,6.65 Lakh*,Honda,18.1 kmpl,1199 CC,88.7bhp,6000rpm,5,Grey,CVT,FWD,,,,,,4,4,4,SOHC,MPFi
+479,2015,"66,000 kms",First Owner,Diesel,Manual,Hyderabad,6.65 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+480,2015,"58,000 kms",First Owner,Petrol,Automatic,Hyderabad,6.65 Lakh*,Volkswagen,17.21 kmpl,1197 CC,103.6bhp,5000rpm,5,Grey,7 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+481,2012,"1,05,399 kms",First Owner,Diesel,Automatic,Hyderabad,6.67 Lakh*,Hyundai,19.08 kmpl,1582 CC,126.32bhp,4000rpm,5,Silver,4 Speed,FWD,,,Disc,190km/hr,10.62 Seconds,4,4,4,DOHC,CRDI
+482,2017,"41,100 kms",First Owner,Diesel,Manual,Hyderabad,6.69 Lakh*,Nissan,22.71 kmpl,1461 CC,84.8bhp,3750rpm,5,Grey,5 Speed,FWD,,,,,15 Seconds,4,4,4,SOHC,Common Rail
+483,2017,"44,000 kms",First Owner,Petrol,Automatic,Hyderabad,6.7 Lakh*,Hyundai,18.9 kmpl,1197 CC,81.86bhp,6000rpm,5,Red,4 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+484,2017,"1,25,178 kms",First Owner,Diesel,Manual,Hyderabad,6.75 Lakh*,Maruti,23.4 kmpl,1248 CC,74bhp,4000rpm,5,SILKY SILVER,5 Speed,FWD,,,,,,,4,4,null,CRDI
+485,2016,"61,000 kms",First Owner,Petrol,Manual,Hyderabad,6.75 Lakh*,Honda,18.7 kmpl,1199 CC,88.7bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,5,4,4,SOHC,PGM - Fi
+486,2017,"20,821 kms",First Owner,Petrol,Manual,Hyderabad,6.75 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.83bhp,6000rpm,5,White,5 Speed,,,,,,,5,4,4,DOHC,MPFI
+487,2017,"7,800 kms",First Owner,Petrol,Automatic,Hyderabad,6.75 Lakh*,Honda,19.0 kmpl,1199 CC,88.7bhp,6000rpm,5,Golden,5 Speed,FWD,,,,,,5,4,4,SOHC,PGM - Fi
+488,2016,"56,142 kms",First Owner,Petrol,Manual,Hyderabad,6.75 Lakh*,Honda,15.4 kmpl,1497 CC,117.3bhp,6600rpm,7,White,6 Speed,FWD,,,,,,5,4,4,SOHC,
+489,2016,"66,603 kms",First Owner,Diesel,Manual,Hyderabad,6.8 Lakh*,Mahindra,18.49 kmpl,1493 CC,100bhp,3750rpm,7,Silver,5 Speed,RWD,,,,,,5,3,2,null,CRDi
+490,2018,"27,459 kms",First Owner,Petrol,Manual,Hyderabad,6.8 Lakh*,Ford,19.0 kmpl,1194 CC,94.68 bhp,,5,Orange,5-Speed,FWD,,,,,,,,,,
+491,2014,"76,370 kms",First Owner,Diesel,Manual,Hyderabad,6.8 Lakh*,Honda,25.1 kmpl,1498 CC,98.6 bhp,,5,Green,6 Speed,FWD,,,,,,,,,,
+492,2020,"16,806 kms",First Owner,Petrol,Manual,Hyderabad,6.8 Lakh*,Maruti,21.21 kmpl,1197 CC,81.80bhp,6000rpm,5,White,5,,,,,,,,4,4,DOHC,MPFi
+493,2015,"65,138 kms",Second Owner,Petrol,Manual,Hyderabad,6.8 Lakh*,Maruti,17.5 kmpl,1373 CC,91.1 bhp,,7,White,5 Speed,FWD,,,,,,,,,,
+494,2017,"45,347 kms",First Owner,Petrol,Manual,Hyderabad,6.8 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.83bhp,6000rpm,5,Red,5 Speed,,,,,,13.2 Seconds,5,4,4,DOHC,MPFI
+495,2016,"72,280 kms",First Owner,Diesel,Manual,Hyderabad,6.8 Lakh*,Maruti,28.09 kmpl,1248 CC,88.5 bhp,,5,White,5 Speed,,,,,,,,,,,
+496,2015,"75,000 kms",First Owner,Diesel,Manual,Hyderabad,6.85 Lakh*,Volkswagen,20.34 kmpl,1498 CC,103.2bhp,4400rpm,5,Blue,5 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+497,2018,"24,000 kms",First Owner,Petrol,Manual,Hyderabad,6.85 Lakh*,Maruti,21.4 kmpl,1197 CC,83.1 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+498,2017,"91,000 kms",First Owner,Diesel,Manual,Hyderabad,6.85 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.76 bhp,,5,Red,6 Speed,,,,,,,,,,,
+499,2018,"24,000 kms",First Owner,Petrol,Manual,Hyderabad,6.85 Lakh*,Maruti,21.4 kmpl,1197 CC,83.1 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+500,2016,"48,865 kms",First Owner,Petrol,Manual,Hyderabad,6.86 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.83bhp,6000rpm,5,Red Passion,5 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+501,2018,"43,184 kms",First Owner,Petrol,Manual,Hyderabad,6.9 Lakh*,Honda,18.7 kmpl,1199 CC,88.7bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,5,4,4,SOHC,PGM - Fi
+502,2016,"33,385 kms",First Owner,Petrol,Manual,Hyderabad,6.9 Lakh*,Maruti,20.85 kmpl,1197 CC,83.14bhp,6000rpm,5,White,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+503,2017,"50,000 kms",First Owner,Diesel,Manual,Hyderabad,6.9 Lakh*,Honda,24.7 kmpl,1498 CC,98.63bhp,3600rpm,5,White,5 Speed,,,,,,,4,4,4,DOHC,CRDi
+504,2016,"68,000 kms",First Owner,Diesel,Manual,Hyderabad,6.9 Lakh*,Mahindra,16.5 kmpl,1493 CC,70bhp,3600rpm,7,White,5 Speed,,,,,,,5,4,4,SOHC,CRDi
+505,2015,"59,636 kms",First Owner,Diesel,Manual,Hyderabad,6.91 Lakh*,Ford,22.7 kmpl,1498 CC,89.84bhp,3750rpm,5,Black,5 Speed,FWD,,,,182 Kmph,13.5 Seconds,5,4,2,SOHC,Direct Injection
+506,2017,"40,321 kms",First Owner,Petrol,Manual,Hyderabad,6.95 Lakh*,Maruti,20.73 kmpl,1373 CC,91.1bhp,6000rpm,5,White,5 Speed,,,,,,,4,4,4,DOHC,MPFI
+507,2015,"96,000 kms",First Owner,Diesel,Manual,Hyderabad,6.95 Lakh*,Maruti,24.2 kmpl,1498 CC,93.87bhp,4000rpm,7,Grey,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+508,2018,"28,520 kms",First Owner,Petrol,Manual,Hyderabad,6.95 Lakh*,Honda,18.7 kmpl,1199 CC,88.7bhp,6000rpm,5,Red,5 Speed,,,Disc,Drum,172 Kmph,13.7 Seconds,5,4,4,SOHC,PGM - Fi
+509,2019,"43,850 kms",First Owner,Petrol,Automatic,Hyderabad,6.95 Lakh*,Maruti,21.21 kmpl,1197 CC,81.80bhp,6000rpm,5,Red,5,,,,Drum,,12.71s,5,4,4,DOHC,MPFi
+510,2017,"76,000 kms",First Owner,Diesel,Manual,Hyderabad,6.95 Lakh*,Maruti,27.39 kmpl,1248 CC,74 bhp,,5,White,5 Speed,FWD,,,,,,,,,,
+511,2016,"75,300 kms",First Owner,Diesel,Manual,Hyderabad,6.95 Lakh*,Ford,22.77 kmpl,1498 CC,98.59bhp,3750rpm,5,Grey,5 Speed,FWD,,Ventilated Disc,Drum,182 Kmph,13.5 Seconds,5,4,2,SOHC,Direct Injection
+512,2016,"25,000 kms",First Owner,Diesel,Manual,Hyderabad,6.95 Lakh*,Maruti,19.3 kmpl,1248 CC,73.9bhp,4000rpm,5,White,5 Speed,2 WD,,,,,,4,4,4,DOHC,CRDI
+513,2016,"86,000 kms",First Owner,Diesel,Automatic,Hyderabad,6.99 Lakh*,Maruti,28.4 kmpl,1248 CC,74.02 bhp,,5,Maroon,5 Speed,FWD,,,,,,,,,,
+514,2016,"71,591 kms",First Owner,Diesel,Manual,Hyderabad,7 Lakh*,Nissan,20.45 kmpl,1461 CC,83.8 bhp,,5,Grey,5 Speed,FWD,,,,,,,,,,
+515,2016,"25,000 kms",First Owner,Petrol,Manual,Hyderabad,7 Lakh*,Honda,18.7 kmpl,1199 CC,88.7bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,5,4,4,SOHC,PGM - Fi
+516,2018,"50,000 kms",Second Owner,Diesel,Automatic,Hyderabad,7 Lakh*,Mahindra,18.49 kmpl,1493 CC,100bhp,3750rpm,7,,5 Speed,RWD,,,,,,,3,2,null,CRDi
+517,2016,"81,000 kms",First Owner,Diesel,Automatic,Hyderabad,7 Lakh*,Maruti,28.4 kmpl,1248 CC,74.02bhp,4000rpm,5,Maroon,5 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+518,2015,"76,747 kms",First Owner,Petrol,Manual,Hyderabad,7.12 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.83bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+519,2021,"21,003 kms",First Owner,Petrol,Manual,Hyderabad,7.14 Lakh*,Maruti,23.26 kmpl,1197 CC,88.50bhp,6000rpm,5,,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+520,2011,"6,00,000 kms",First Owner,Petrol,Manual,Hyderabad,7.2 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.83bhp,6000rpm,5,Yellow,5 Speed,,,,,,13.2 Seconds,5,4,4,DOHC,MPFI
+521,2017,"66,812 kms",First Owner,Diesel,Manual,Hyderabad,7.24 Lakh*,Toyota,23.59 kmpl,1364 CC,67.05bhp,3800rpm,5,Silver,5 Speed,,,,,,,4,4,2,SOHC,CRDi
+522,2013,"1,01,744 kms",First Owner,Diesel,Manual,Hyderabad,7.25 Lakh*,Mahindra,15.1 kmpl,2179 CC,140bhp,3750rpm,7,Silver,6 Speed,AWD,,,,,12.5 Seconds,5,4,4,DOHC,Direct Injection
+523,2014,"94,000 kms",First Owner,Diesel,Manual,Hyderabad,7.25 Lakh*,Hyundai,22.32 kmpl,1582 CC,126.32 bhp,,5,Red,6 Speed,FWD,,,,,,,,,,
+524,2014,"78,000 kms",First Owner,Petrol,Manual,Hyderabad,7.25 Lakh*,Honda,17.4 kmpl,1497 CC,117.3bhp,6600rpm,5,Golden Brown,5 Speed,FWD,,,,,,4,4,4,SOHC,PGM-Fi
+525,2016,"81,920 kms",First Owner,Diesel,Automatic,Hyderabad,7.25 Lakh*,Maruti,26.59 kmpl,1248 CC,74 bhp,,5,Red,5 Speed,FWD,,,,,,,,,,
+526,2018,"90,432 kms",First Owner,Diesel,Manual,Hyderabad,7.25 Lakh*,Maruti,28.4 kmpl,1248 CC,74bhp,4000rpm,5,White,5,FWD,,,,,,5,4,4,DOHC,CRDi
+527,2017,"53,282 kms",First Owner,Diesel,Manual,Hyderabad,7.25 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73 bhp,,5,Red,6 Speed,,,,,,,,,,,
+528,2019,"29,000 kms",First Owner,Petrol,Manual,Hyderabad,7.25 Lakh*,Maruti,21.01 kmpl,1197 CC,81.80bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+529,2016,"72,000 kms",First Owner,Diesel,Manual,Hyderabad,7.3 Lakh*,Maruti,23.65 kmpl,1248 CC,88.5 bhp,,5,Blue,5 Speed,FWD,,,,,,,,,,
+530,2017,"82,175 kms",First Owner,Diesel,Manual,Hyderabad,7.34 Lakh*,Maruti,28.4 kmpl,1248 CC,74.02 bhp,,5,Red,5 Speed,,,,,,,,,,,
+531,2016,"53,605 kms",First Owner,Diesel,Manual,Hyderabad,7.35 Lakh*,Maruti,28.09 kmpl,1248 CC,88.5bhp,4000rpm,5,Brown,5 Speed,,,,,,,,4,4,DOHC,CRDI
+532,2018,"64,000 kms",First Owner,Diesel,Automatic,Hyderabad,7.35 Lakh*,Maruti,28.4 kmpl,1248 CC,74 bhp,,5,Blue,5,,,,,,,,,,,
+533,2018,"33,000 kms",First Owner,Petrol,Manual,Hyderabad,7.45 Lakh*,Tata,17.0 kmpl,1198 CC,108.5bhp,5000rpm,5,White,6 Speed,,,,,,,,3,4,DOHC,MPFI
+534,2018,"30,100 kms",First Owner,Petrol,Automatic,Hyderabad,7.45 Lakh*,Maruti,21.21 kmpl,1197 CC,81.80 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+535,2016,"68,151 kms",First Owner,Diesel,Manual,Hyderabad,7.45 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73bhp,4000rpm,5,White,6 Speed,FWD,,,,,11.9 Seconds,5,4,4,DOHC,CRDI
+536,2020,"20,000 kms",First Owner,Petrol,Automatic,Hyderabad,7.45 Lakh*,Toyota,19.56 kmpl,1197 CC,81.80 bhp,,5,White,5-Speed,FWD,,,,,,,,,,
+537,2017,"46,640 kms",First Owner,Petrol,Manual,Hyderabad,7.47 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.83bhp,6000rpm,5,Grey,5 Speed,,,,,,13.2 Seconds,5,4,4,DOHC,MPFI
+538,2013,"1,55,204 kms",First Owner,Diesel,Manual,Hyderabad,7.47 Lakh*,Maruti,20.77 kmpl,1248 CC,88.8bhp,4000rpm,7,Grey,5 Speed,FWD,,,,,13.3 Seconds,5,4,4,DOHC,CRDI
+539,2019,"25,000 kms",First Owner,Petrol,Manual,Hyderabad,7.5 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.86bhp,6000rpm,5,Grey,5 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+540,2017,"65,200 kms",First Owner,Diesel,Manual,Hyderabad,7.5 Lakh*,Honda,21.9 kmpl,1498 CC,98.6bhp,3600rpm,7,Maroon,6 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+541,2015,"82,000 kms",First Owner,Diesel,Manual,Hyderabad,7.5 Lakh*,Maruti,25.47 kmpl,1248 CC,88.50 bhp,,7,Grey,5 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+542,2015,"85,000 kms",First Owner,Diesel,Manual,Hyderabad,7.5 Lakh*,Maruti,25.47 kmpl,1248 CC,88.50 bhp,,7,Grey,5 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+543,2018,"95,000 kms",First Owner,Diesel,Manual,Hyderabad,7.5 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73bhp,4000rpm,5,Blue,6 Speed,,,,,,,5,4,4,DOHC,CRDI
+544,2011,"1,05,000 kms",First Owner,Diesel,Automatic,Hyderabad,7.5 Lakh*,Volkswagen,14.3 kmpl,1968 CC,167.7bhp,4200rpm,5,Brown,6 Speed,,,,,,,4,4,4,DOHC,Common Rail
+545,2017,"83,936 kms",First Owner,Diesel,Manual,Hyderabad,7.5 Lakh*,Maruti,28.4 kmpl,1248 CC,74.02bhp,4000rpm,5,Silver,5 Speed,,,,,,13.03 Seconds,4,4,4,DOHC,CRDI
+546,2017,"36,000 kms",First Owner,Diesel,Manual,Hyderabad,7.65 Lakh*,Maruti,27.39 kmpl,1248 CC,74bhp,4000rpm,5,Blue,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+547,2017,"54,300 kms",First Owner,Diesel,Manual,Hyderabad,7.65 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88bhp,4200rpm,5,White,5 Speed,,,,,,,5,4,4,DOHC,Direct Injection
+548,2014,"48,500 kms",First Owner,Diesel,Manual,Hyderabad,7.7 Lakh*,Mahindra,15.1 kmpl,2179 CC,140bhp,3750rpm,7,Grey,6 Speed,,,,,,,,4,4,DOHC,Direct Injection
+549,2018,"66,700 kms",First Owner,Diesel,Manual,Hyderabad,7.75 Lakh*,Volkswagen,20.14 kmpl,1498 CC,88bhp,4200rpm,5,Red,5 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+550,2015,"85,026 kms",First Owner,Diesel,Manual,Hyderabad,7.75 Lakh*,Mahindra,15.1 kmpl,2179 CC,140bhp,3750rpm,7,Grey,6 Speed,,,,,,,,4,4,DOHC,Direct Injection
+551,2015,"50,000 kms",First Owner,Diesel,Manual,Hyderabad,7.75 Lakh*,Maruti,20.77 kmpl,1248 CC,88.76bhp,4000rpm,7,White,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+552,2016,"1,12,030 kms",First Owner,Diesel,Automatic,Hyderabad,7.78 Lakh*,Renault,19.6 kmpl,1461 CC,108.45bhp,4000rpm,5,Brown,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+553,2009,"82,743 kms",First Owner,Diesel,Automatic,Hyderabad,7.8 Lakh*,BMW,18.48 kmpl,,,,5,Brown,6 Speed,,Power,Ventilated discs,,,,,,,,
+554,2016,500 kms,First Owner,Diesel,Manual,Hyderabad,7.82 Lakh*,Maruti,28.09 kmpl,1248 CC,88.5bhp,4000rpm,5,Pearl Midnight Black,5 Speed,FWD,,,,,,4,4,4,DOHC,CRDI
+555,2017,"78,000 kms",First Owner,Diesel,Manual,Hyderabad,7.85 Lakh*,Ford,21.7 kmpl,1498 CC,98.96bhp,3750rpm,5,Brown,5 Speed,FWD,,,,,,5,4,4,SOHC,Direct Injection
+556,2016,"54,000 kms",First Owner,Diesel,Manual,Hyderabad,7.85 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Red,5 Speed,,,,,,12.36 Seconds,5,4,4,DOHC,CRDi
+557,2014,"1,00,000 kms",First Owner,Diesel,Automatic,Hyderabad,7.85 Lakh*,Volkswagen,16.96 kmpl,1968 CC,138.1bhp,4200rpm,5,Brown,6 Speed,,,,,,,4,4,4,,CRDi
+558,2018,"42,000 kms",First Owner,Diesel,Manual,Hyderabad,7.85 Lakh*,Tata,21.5 kmpl,1497 CC,108.5 bhp,,5,VERMONT RED,6 Speed,,,,,,,,,,,
+559,2016,"89,000 kms",First Owner,Diesel,Manual,Hyderabad,7.9 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5 bhp,,5,Grey,5 Speed,,,,,,,,,,,
+560,2018,"69,000 kms",First Owner,Diesel,Manual,Hyderabad,7.9 Lakh*,Maruti,28.4 kmpl,1248 CC,74bhp,4000rpm,5,Blue,5,FWD,,,,,,5,4,4,DOHC,CRDi
+561,2016,"85,000 kms",First Owner,Diesel,Manual,Hyderabad,7.9 Lakh*,Mahindra,17.45 kmpl,1493 CC,100 bhp,,7,White,5 Speed,,,,,,,,,,,
+562,2018,"55,000 kms",First Owner,Diesel,Manual,Hyderabad,7.9 Lakh*,Maruti,26.59 kmpl,1248 CC,74 bhp,,5,Silver,5 Speed,,,,,,,,,,,
+563,2019,"33,000 kms",First Owner,Diesel,Manual,Hyderabad,7.95 Lakh*,Renault,19.87 kmpl,1461 CC,83.8 bhp,,5,Blue,5 speed,FWD,,,,,,,,,,
+564,2018,"36,238 kms",First Owner,Petrol,Automatic,Hyderabad,7.95 Lakh*,Maruti,21.21 kmpl,1197 CC,81.80bhp,6000rpm,5,White,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+565,2017,"1,26,300 kms",First Owner,Diesel,Automatic,Hyderabad,7.95 Lakh*,Skoda,21.72 kmpl,1498 CC,108.6bhp,4000rpm,5,Red,7 Speed,FWD,,,,,11.41 Seconds,4,4,4,DOHC,Direct Injection
+566,2015,"68,521 kms",First Owner,Diesel,Manual,Hyderabad,7.95 Lakh*,Maruti,24.2 kmpl,1498 CC,93.87 bhp,,7,Grey,6 Speed,FWD,,,,,,,,,,
+567,2013,"88,000 kms",First Owner,Diesel,Manual,Hyderabad,7.99 Lakh*,Hyundai,14.66 kmpl,2199 CC,194.3bhp,3800rpm,7,White,6 Speed,FWD,,Ventilated Disc,Solid Disc,182km/hr,11.8 seconds,5,4,4,DOHC,Common Rail Direct Injection
+568,2008,"1,31,000 kms",First Owner,Petrol,Automatic,Hyderabad,7.99 Lakh*,BMW,11.5 kmpl,2497 CC,218 ," 6,500 (PS",5,White,6 Speed,,,,,210 kmph,8.5 seconds,5,6,4,,
+569,2008,"80,000 kms",First Owner,Diesel,Automatic,Hyderabad,7.99 Lakh*,Mercedes-Benz,14.84 kmpl,2143 CC,170bhp,3000-4200rpm,5,White,7 Speed,RWD,,Ventilated Disc,Solid Disc,228km/hr,8.5 seconds,4,4,4,,Direct Injection
+570,2019,"40,000 kms",First Owner,Diesel,Manual,Hyderabad,8 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.76bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+571,2011,"1,79,459 kms",First Owner,Diesel,Manual,Hyderabad,8 Lakh*,Toyota,12.8 kmpl,2494 CC,102,"3,600 (PS",8,Silver,5 Speed,,,,,151 kmph,17.5 seconds,5,4,4,DOHC,CRDI
+572,2017,"36,000 kms",First Owner,Diesel,Manual,Hyderabad,8.2 Lakh*,Maruti,27.39 kmpl,1248 CC,74bhp,4000rpm,5,Blue,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+573,2018,"13,583 kms",First Owner,Petrol,Manual,Hyderabad,8.2 Lakh*,Honda,18.6 kmpl,1199 CC,88.76 bhp,,5,Brown,5 Speed,FWD,,,,,,,,,,
+574,2017,"45,000 kms",First Owner,Diesel,Manual,Hyderabad,8.2 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5 bhp,,5,White,5 Speed,,,,,,,,,,,
+575,2016,"63,384 kms",First Owner,Petrol,Manual,Hyderabad,8.2 Lakh*,Honda,17.8 kmpl,1497 CC,117.3bhp,6600rpm,5,White,5 Speed,FWD,,,,,,4,4,4,SOHC,PGM-Fi
+576,2017,"88,600 kms",First Owner,Diesel,Manual,Hyderabad,8.2 Lakh*,Skoda,21.13 kmpl,1498 CC,108.6bhp,4000rpm,5,Grey,5 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+577,2016,"89,208 kms",First Owner,Diesel,Manual,Hyderabad,8.22 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Grey,5 Speed,,,,Drum,172 kmph,12.36 Seconds,5,4,4,DOHC,CRDi
+578,2018,"36,321 kms",First Owner,Diesel,Manual,Hyderabad,8.25 Lakh*,Hyundai,22.54 kmpl,1396 CC,88.73 bhp,,5,White,6 Speed,,,,,,,,,,,
+579,2018,"17,000 kms",First Owner,Petrol,Automatic,Hyderabad,8.25 Lakh*,Maruti,21.4 kmpl,1197 CC,83.1 bhp,,5,Grey,CVT,FWD,,,,,,,,,,
+580,2017,"43,000 kms",First Owner,Diesel,Manual,Hyderabad,8.25 Lakh*,Tata,21.5 kmpl,1497 CC,108.5bhp,3750rpm,5,Blue,6 Speed,,,,,,13.25 Seconds,5,4,4,DOHC,CDI
+581,2018,"90,000 kms",First Owner,Diesel,Manual,Hyderabad,8.25 Lakh*,Skoda,21.13 kmpl,1498 CC,108.6bhp,4000rpm,5,Carbon Steel,5 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+582,2018,"46,000 kms",First Owner,Diesel,Automatic,Hyderabad,8.3 Lakh*,Honda,23.8 kmpl,1498 CC,78.9 bhp,,5,Silver,5 Speed,,,,,,,,,,,
+583,2018,"81,581 kms",First Owner,Diesel,Manual,Hyderabad,8.4 Lakh*,Maruti,28.09 kmpl,1248 CC,88.5bhp,4000rpm,5,Blue,5 Speed,,,,,190 kmph,15 Seconds,4,4,4,DOHC,CRDI
+584,2018,"35,013 kms",First Owner,Diesel,Manual,Hyderabad,8.41 Lakh*,Nissan,22.71 kmpl,1461 CC,84.8bhp,3750rpm,5,White,5 Speed,,,,,175 Kmph,15 Seconds,4,4,2,SOHC,Common Rail
+585,2006,"79,000 kms",First Owner,Diesel,Automatic,Hyderabad,8.45 Lakh*,Mercedes-Benz,11.0 kmpl,2987 CC,198.5,"4,000 (PS",5,Silver,7 Speed,RWD,,Ventilated Disc,Solid Disc,248 kmph,8.7 seconds,4,6,4,DOHC,SEFI
+586,2012,"1,27,000 kms",First Owner,Diesel,Manual,Hyderabad,8.45 Lakh*,Toyota,12.99 kmpl,2494 CC,100bhp,3600rpm,7,Grey,5 Speed,FWD,,,,,,5,4,4,DOHC,Common Rail
+587,2016,"91,500 kms",First Owner,Diesel,Automatic,Hyderabad,8.45 Lakh*,Hyundai,19.08 kmpl,1582 CC,126.2bhp,4000rpm,5,White,4 Speed,FWD,,,,,,4,4,4,DOHC,CRDi
+588,2019,"12,000 kms",First Owner,Petrol,Manual,Hyderabad,8.45 Lakh*,Hyundai,18.6 kmpl,1197 CC,81.86bhp,6000rpm,5,Orange,5 Speed,FWD,,,,170 Kmph,13.2 Seconds,5,4,4,DOHC,MPFI
+589,2016,"97,000 kms",First Owner,Diesel,Manual,Hyderabad,8.45 Lakh*,Maruti,24.52 kmpl,1248 CC,88.5bhp,4000rpm,7,White,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+590,2007,"1,00,000 kms",Second Owner,Petrol,Automatic,Hyderabad,8.49 Lakh*,BMW,8.77 kmpl,4395 CC,402bhp,5500rpm,5,Green,6 Speed,,,,,,5.3 seconds,4,8,4,,
+591,2019,"45,501 kms",First Owner,Petrol,Manual,Hyderabad,8.5 Lakh*,Hyundai,17.19 kmpl,1197 CC,81.86bhp,6000rpm,5,Red,5 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+592,2020,"33,568 kms",First Owner,Petrol,Automatic,Hyderabad,8.5 Lakh*,Volkswagen,16.47 kmpl,999 CC,108.62bhp,5000-5500rpm,5,Grey,6 Speed,FWD,,,,,,,3,4,DOHC,TSI
+593,2013,"83,413 kms",First Owner,Diesel,Manual,Hyderabad,8.5 Lakh*,Mahindra,12.83 kmpl,2696 CC,162bhp,4000rpm,7,White,5 Speed,4WD,,,,,,5,5,4,DOHC,CRDi
+594,2011,"88,000 kms",First Owner,Diesel,Automatic,Hyderabad,8.5 Lakh*,BMW,17.05 kmpl,1995 CC,184bhp,4000rpm,5,Black,8-Speed,RWD,,,,,,5,4,4,,CRDi
+595,2017,"54,000 kms",First Owner,Diesel,Manual,Hyderabad,8.55 Lakh*,Maruti,28.09 kmpl,1248 CC,88.50bhp,4000rpm,5,Grey,5 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+596,2018,"70,499 kms",First Owner,Diesel,Manual,Hyderabad,8.6 Lakh*,Honda,25.5 kmpl,1498 CC,98.6bhp,3600rpm,5,Orange,6 Speed,,,,,,,5,4,4,DOHC,CRDi
+597,2018,"84,000 kms",First Owner,Diesel,Manual,Hyderabad,8.7 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Red,5 Speed,,,,Drum,172 kmph,12.36 Seconds,5,4,4,DOHC,CRDi
+598,2019,"72,000 kms",First Owner,Diesel,Manual,Hyderabad,8.75 Lakh*,Maruti,27.39 kmpl,1248 CC,74 bhp,,5,Blue,5 Speed,FWD,,,,,,,,,,
+599,2017,"39,000 kms",Second Owner,Diesel,Manual,Hyderabad,8.82 Lakh*,Maruti,25.1 kmpl,1248 CC,88.5bhp,4000rpm,5,Blue,5 Speed,FWD,,,,,13.42 Seconds,5,4,4,DOHC,DDIS
+600,2019,"39,000 kms",First Owner,Diesel,Manual,Hyderabad,8.85 Lakh*,Tata,21.5 kmpl,1497 CC,108.5bhp,3750rpm,5,Orange,6 Speed,,,,,,13.25 Seconds,5,4,4,DOHC,CDI
+601,2017,"91,700 kms",First Owner,Diesel,Manual,Hyderabad,8.85 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,FWD,,,,172 kmph,12.36 Seconds,5,4,4,DOHC,CRDi
+602,2018,"76,000 kms",First Owner,Diesel,Manual,Hyderabad,8.9 Lakh*,Maruti,25.47 kmpl,1248 CC,88.50bhp,4000rpm,7,Grey,5 Speed,FWD,,,,,,,4,4,DOHC,CRDI
+603,2020,"43,000 kms",First Owner,Petrol,Manual,Hyderabad,8.9 Lakh*,Maruti,18.55 kmpl,1462 CC,103.26 bhp,,5,Grey,5,2WD,,,,,,,,,,
+604,2015,"1,19,181 kms",First Owner,Diesel,Manual,Hyderabad,8.9 Lakh*,Tata,14.1 kmpl,2179 CC,148bhp,4000rpm,7,White,5 Speed,RWD,,,,,,5,4,4,DOHC,CRDi
+605,2018,"89,120 kms",First Owner,Diesel,Manual,Hyderabad,8.95 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,,,,,,,5,4,4,DOHC,CRDi
+606,2017,"49,000 kms",First Owner,Petrol,Automatic,Hyderabad,8.95 Lakh*,Honda,15.4 kmpl,1497 CC,117.3bhp,6600rpm,7,Brown,CVT,FWD,,,,,,5,4,4,SOHC,
+607,2013,"90,321 kms",First Owner,Diesel,Manual,Hyderabad,8.95 Lakh*,Toyota,12.99 kmpl,2494 CC,100bhp,3600rpm,8,Silver,5 Speed,FWD,,,,,,5,4,4,DOHC,Common Rail
+608,2011,"90,000 kms",First Owner,Diesel,Automatic,Hyderabad,8.99 Lakh*,Volvo,13.5 kmpl,2400 CC,215bhp,4000rpm,5,Blue,6 Speed Geartronic,All Wheel Drive,,,,,,5,5,4,,
+609,2017,"60,000 kms",First Owner,Diesel,Manual,Hyderabad,8.99 Lakh*,Maruti,23.65 kmpl,1248 CC,88.5 bhp,,5,Blue,5 Speed,FWD,,,,,,,,,,
+610,2017,"32,939 kms",First Owner,Petrol,Manual,Hyderabad,9 Lakh*,Hyundai,17.01 kmpl,1591 CC,121.3bhp,6300rpm,5,White,5 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+611,2018,"57,000 kms",First Owner,Diesel,Manual,Hyderabad,9.25 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+612,2018,"17,500 kms",First Owner,Petrol,Manual,Hyderabad,9.25 Lakh*,Honda,17.4 kmpl,1497 CC,117.6bhp,6600rpm,5,Grey,5 Speed,FWD,,,,,,4,4,4,SOHC,PGM-Fi
+613,2009,"47,450 kms",First Owner,Diesel,Manual,Hyderabad,9.25 Lakh*,Mercedes-Benz,15.0 kmpl,2148 CC,null,,5,White,,,Power,,,,,,4,4,null,null
+614,2019,"29,900 kms",First Owner,Petrol,Automatic,Hyderabad,9.25 Lakh*,Hyundai,17.0 kmpl,1591 CC,121.3bhp,6400rpm,5,Black,6 Speed,FWD,,,,,,4,4,4,DOHC,MPFI
+615,2017,"60,000 kms",First Owner,Diesel,Manual,Hyderabad,9.3 Lakh*,Maruti,23.65 kmpl,1248 CC,88.5bhp,4000rpm,5,Blue,5 Speed,FWD,,,,,,5,4,4,DOHC,null
+616,2010,"1,80,000 kms",Third Owner,Diesel,Manual,Hyderabad,9.3 Lakh*,Toyota,11.5 kmpl,2982 CC,171 PS , 3600 rpm,7,White,5 Speed,4WD,,,,,,5,4,4,DOHC,Common-Rail type
+617,2017,"61,321 kms",First Owner,Diesel,Manual,Hyderabad,9.4 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Maroon,5 Speed,FWD,,Ventilated Disc,Drum,172 kmph,12.36 Seconds,5,4,4,DOHC,CRDi
+618,2018,"37,000 kms",First Owner,Diesel,Manual,Hyderabad,9.45 Lakh*,Tata,21.5 kmpl,1497 CC,108.5bhp,3750rpm,5,Grey,6 Speed,FWD,,,,,13.25 Seconds,5,4,4,DOHC,CDI
+619,2018,"57,821 kms",First Owner,Diesel,Manual,Hyderabad,9.5 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,FWD,,Ventilated Disc,Drum,172 kmph,12.36 Seconds,5,4,4,DOHC,CRDi
+620,2017,"81,281 kms",First Owner,Diesel,Manual,Hyderabad,9.5 Lakh*,Hyundai,22.1 kmpl,1396 CC,88.7bhp,4000rpm,5,White,6 Speed,,,,,,,5,4,4,DOHC,CRDi
+621,2018,"47,000 kms",First Owner,Diesel,Manual,Hyderabad,9.5 Lakh*,Mahindra,16.55 kmpl,2498 CC,105bhp,3800rpm,6,Black,5 Speed,,,,,,,3,4,4,DOHC,Common Rail
+622,2018,"46,000 kms",First Owner,Diesel,Manual,Hyderabad,9.5 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Red,5 Speed,,,,,,,5,4,4,DOHC,CRDi
+623,2017,"55,000 kms",First Owner,Diesel,Manual,Hyderabad,9.5 Lakh*,Honda,26.0 kmpl,1498 CC,98.6bhp,3600rpm,5,Silver,6 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+624,2019,"10,000 kms",First Owner,Petrol,Manual,Hyderabad,9.5 Lakh*,Maruti,19.01 kmpl,1462 CC,103.2bhp,6000rpm,6,,5-Speed,FWD,,,,,,,4,4,,
+625,2019,"46,883 kms",First Owner,Diesel,Manual,Hyderabad,9.55 Lakh*,Ford,21.7 kmpl,1498 CC,98.96bhp,3750rpm,5,Grey,5 Speed,FWD,,,,,,,4,4,SOHC,Direct Injection
+626,2019,"55,000 kms",First Owner,Diesel,Manual,Hyderabad,9.65 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+627,2019,"8,700 kms",First Owner,Petrol,Automatic,Hyderabad,9.75 Lakh*,Maruti,17.99 kmpl,1462 CC,103.2bhp,6000rpm,6,White,4-Speed,FWD,,,,,,,4,4,,
+628,2011,"98,045 kms",First Owner,Diesel,Automatic,Hyderabad,9.8 Lakh*,Volvo,16.0 kmpl,2400 CC,215bhp,4000rpm,5,White,6 Speed,FWD,,,,,7.8 Seconds,4,5,5,DOHC,CRDI
+629,2012,"1,46,256 kms",First Owner,Diesel,Automatic,Hyderabad,9.8 Lakh*,Volvo,18.5 kmpl,1985 CC,163 bhp,,5,White,Six Speed Gearbox,All Wheel Drive,,,,,,,,,,
+630,2021,"2,400 kms",First Owner,Petrol,Manual,Hyderabad,9.8 Lakh*,Kia,18.2 kmpl,998 CC,118.36bhp,6000rpm,5,Black,6 Speed iMT,FWD,,,,,,,3,4,,GDi
+631,2017,"38,000 kms",First Owner,Diesel,Automatic,Hyderabad,9.85 Lakh*,Renault,19.6 kmpl,1461 CC,108.45 bhp,,5,White,6 Speed,FWD,,,,,,,,,,
+632,2016,"83,590 kms",First Owner,Diesel,Manual,Hyderabad,9.9 Lakh*,Mahindra,16.0 kmpl,2179 CC,140bhp,3750rpm,7,Silver,6 Speed,AWD,,,,,,5,4,4,DOHC,Direct Injection
+633,2020,"5,000 kms",First Owner,Diesel,Manual,Hyderabad,9.94 Lakh*,Hyundai,23.7 kmpl,1493 CC,98.6bhp,4000rpm,5,,6-Speed,FWD,,,,,,5,4,4,,CRDi
+634,2015,"1,14,000 kms",First Owner,Diesel,Automatic,Hyderabad,9.95 Lakh*,Hyundai,17.01 kmpl,1582 CC,126.2bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+635,2018,"1,94,000 kms",First Owner,Diesel,Manual,Hyderabad,9.99 Lakh*,Tata,14.1 kmpl,2179 CC,153.86bhp,4000rpm,7,White,5 Speed,4WD,,,,,12.8 Seconds,5,4,4,DOHC,CRDi
+636,2012,"1,07,000 kms",First Owner,Diesel,Automatic,Hyderabad,9.99 Lakh*,Volvo,18.5 kmpl,1985 CC,163bhp,3500rpm,5,White,Six Speed Gearbox,All Wheel Drive,,,,,,4,5,4,,
+637,2019,"69,771 kms",First Owner,Diesel,Automatic,Hyderabad,10 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,,,,,172 kmph,12.36 Seconds,5,4,4,DOHC,CRDi
+638,2018,"70,180 kms",First Owner,Diesel,Manual,Hyderabad,10 Lakh*,Maruti,25.1 kmpl,1248 CC,88.5bhp,4000rpm,5,Blue,5 Speed,FWD,,,,,,5,4,4,DOHC,DDIS
+639,2020,"32,000 kms",First Owner,Petrol,Manual,Hyderabad,10.05 Lakh*,Maruti,19.01 kmpl,1462 CC,103.2bhp,6000rpm,6,White,5-Speed,FWD,,,,,,,4,4,,
+640,2019,"51,369 kms",First Owner,Diesel,Automatic,Hyderabad,10.25 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Grey,5 Speed,FWD,,,,,12.36 Seconds,5,4,4,DOHC,CRDi
+641,2015,"1,14,000 kms",First Owner,Diesel,Manual,Hyderabad,10.25 Lakh*,Hyundai,20.5 kmpl,1582 CC,126.2bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+642,2019,"71,750 kms",First Owner,Diesel,Manual,Hyderabad,10.25 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+643,2019,"38,910 kms",First Owner,Diesel,Manual,Hyderabad,10.45 Lakh*,Volkswagen,22.27 kmpl,1498 CC,108.6bhp,4000rpm,5,Grey,5 Speed,FWD,,,,,,4,4,4,DOHC,CRDI
+644,2013,"74,200 kms",First Owner,Diesel,Automatic,Hyderabad,10.49 Lakh*,Mercedes-Benz,14.8 kmpl,2143 CC,120.7bhp,5000rpm,5,White,7 Speed,FWD,,,,190km/hr,10.2 Seconds,5,4,4,null,MPFI
+645,2018,"13,400 kms",First Owner,Petrol,Manual,Hyderabad,10.49 Lakh*,Toyota,17.1 kmpl,1496 CC,105.5bhp,6000rpm,5,Silver,6 Speed,FWD,,,,,,,4,4,DOHC,EFI
+646,2018,"49,000 kms",First Owner,Diesel,Automatic,Hyderabad,10.5 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Grey,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+647,2007,"52,487 kms",First Owner,Diesel,Automatic,Hyderabad,10.5 Lakh*,Mercedes-Benz,11.0 kmpl,2987 CC,198.5,"4,000 (PS",5,Black,7 Speed,RWD,,,Solid Disc,248 kmph,8.7 seconds,4,6,4,DOHC,SEFI
+648,2015,"1,20,000 kms",Second Owner,Diesel,Manual,Hyderabad,10.5 Lakh*,Mahindra,16.0 kmpl,2179 CC,140bhp,3750rpm,7,,6 Speed,FWD,,,,,10 Seconds,5,4,4,DOHC,Direct Injection
+649,2016,"66,212 kms",First Owner,Diesel,Manual,Hyderabad,10.5 Lakh*,Hyundai,19.67 kmpl,1582 CC,126.2bhp,4000rpm,5,Red,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+650,2014,"1,78,000 kms",First Owner,Diesel,Manual,Hyderabad,10.5 Lakh*,Toyota,12.99 kmpl,2494 CC,100.6bhp,3600rpm,8,Grey,5 Speed,RWD,,,,,,,4,4,DOHC,Common Rail
+651,2018,"18,000 kms",First Owner,Petrol,Automatic,Hyderabad,10.5 Lakh*,Maruti,20.28 kmpl,1462 CC,103.25bhp,6000rpm,5,Grey,4 Speed,FWD,,,,,,,4,4,DOHC,MPFI
+652,2018,"47,000 kms",First Owner,Diesel,Automatic,Hyderabad,10.5 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Silver,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+653,2018,"23,000 kms",First Owner,Petrol,Automatic,Hyderabad,10.5 Lakh*,Toyota,17.8 kmpl,1496 CC,105.5bhp,6000rpm,5,White,7 Speed CVT,,,,,,,,4,4,DOHC,EFI
+654,2020,"31,463 kms",First Owner,Petrol,Manual,Hyderabad,10.59 Lakh*,Maruti,18.55 kmpl,1462 CC,103.26bhp,6000rpm,5,Pearl Arctic White,5,2WD,,,,,,,4,4,,
+655,2014,"2,63,780 kms",First Owner,Diesel,Manual,Hyderabad,10.65 Lakh*,Toyota,12.99 kmpl,2494 CC,100.57bhp,3600rpm,8,Golden,5 Speed,,,,,,,5,4,4,DOHC,CRDI
+656,2019,"45,000 kms",First Owner,Diesel,Manual,Hyderabad,10.7 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Silver,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+657,2015,"81,421 kms",First Owner,Diesel,Automatic,Hyderabad,10.75 Lakh*,Hyundai,17.01 kmpl,1582 CC,126.2bhp,4000rpm,5,Black,6 Speed,FWD,,,,,10.5 Seconds,5,4,4,DOHC,CRDi
+658,2012,"1,00,000 kms",First Owner,Diesel,Automatic,Hyderabad,10.75 Lakh*,BMW,15.06 kmpl,1995 CC,177bhp,4000rpm,5,Black,Automatic Transmission,,,,,,,5,4,4,,
+659,2020,"27,000 kms",First Owner,Petrol,Manual,Hyderabad,10.8 Lakh*,New,18.97 kmpl,999 CC,108.62bhp,5000-5500rpm,5,White,6 Speed,FWD,,,,,,,3,4,DOHC,Direct Injection
+660,2019,"46,857 kms",First Owner,Diesel,Automatic,Hyderabad,10.8 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,Red,5 Speed,FWD,,,,,12.36 Seconds,5,4,4,DOHC,CRDi
+661,2014,"1,27,321 kms",First Owner,Petrol,Automatic,Hyderabad,10.8 Lakh*,Honda,12.0 kmpl,2354 CC,187.4bhp,7000rpm,5,Black,5 Speed,,,,,,,5,4,4,DOHC,PGM-FI (Programmed Fuel Injection)
+662,2011,"85,321 kms",First Owner,Diesel,Automatic,Hyderabad,10.85 Lakh*,BMW,16.07 kmpl,1995 CC,181bhp,4000rpm,5,Black,6 Speed,,,,,,,4,4,4,null,CRDI
+663,2018,"13,305 kms",First Owner,Petrol,Automatic,Hyderabad,10.9 Lakh*,Honda,16.0 kmpl,1497 CC,117.3bhp,6600rpm,7,Golden Brown,CVT,FWD,,,,,,5,4,4,SOHC,null
+664,2014,"1,60,321 kms",First Owner,Diesel,Manual,Hyderabad,11 Lakh*,Toyota,12.99 kmpl,2494 CC,100.6bhp,3600rpm,7,Grey,5 Speed,RWD,,,,,,5,4,4,DOHC,CRDi
+665,2015,"72,227 kms",First Owner,Diesel,Manual,Hyderabad,11 Lakh*,Mahindra,16.0 kmpl,2179 CC,140bhp,3750rpm,7,Orange,6 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+666,2014,"1,70,000 kms",First Owner,Diesel,Manual,Hyderabad,11 Lakh*,Toyota,12.99 kmpl,2494 CC,100.6bhp,3600rpm,8,Grey,5 Speed,RWD,,,,,,,4,4,DOHC,Common Rail
+667,2021,"10,000 kms",First Owner,Diesel,Automatic,Hyderabad,11.25 Lakh*,Tata,21.5 kmpl,1497 CC,108.50bhp,4000rpm,5,Grey,6 Speed,,,,,,,5,4,4,DOHC,CRDI
+668,2015,"72,563 kms",First Owner,Diesel,Automatic,Hyderabad,11.25 Lakh*,Hyundai,17.01 kmpl,1582 CC,126.2bhp,4000rpm,5,White,6 Speed,FWD,,,,,,,4,4,DOHC,CRDi
+669,2020,"50,000 kms",First Owner,Diesel,Manual,Hyderabad,11.3 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+670,2019,"49,000 kms",First Owner,Diesel,Manual,Hyderabad,11.5 Lakh*,Maruti,24.3 kmpl,1248 CC,88.5bhp,4000rpm,5,White,5 Speed,FWD,,,,,12.36 Seconds,5,4,4,DOHC,CRDi
+671,2018,"63,000 kms",First Owner,Diesel,Manual,Hyderabad,11.75 Lakh*,Tata,17.6 kmpl,2179 CC,153.86bhp,4000,7,Silver,6 Speed,AWD,,,,,,,4,4,DOHC,CRDi
+672,2011,"85,000 kms",First Owner,Diesel,Manual,Hyderabad,11.75 Lakh*,Toyota,11.5 kmpl,2982 CC,171 PS , 3600 rpm,7,Grey,5 Speed,4WD,,,,,,5,4,4,DOHC,Common-Rail type
+673,2017,"69,000 kms",First Owner,Diesel,Automatic,Hyderabad,11.8 Lakh*,Hyundai,17.01 kmpl,1582 CC,126.2bhp,4000rpm,5,Red,6 Speed,FWD,,,,,,,4,4,DOHC,CRDi
+674,2011,"1,92,142 kms",First Owner,Diesel,Manual,Hyderabad,11.8 Lakh*,Toyota,11.5 kmpl,2982 CC,171 PS , 3600 rpm,7,Black,5 Speed,4WD,,,Leading-Trailing Drum,176 Kmph,9.6 Seconds,5,4,4,DOHC,Common-Rail type
+675,2016,"61,000 kms",First Owner,Diesel,Automatic,Hyderabad,11.9 Lakh*,Hyundai,17.01 kmpl,1582 CC,126.2bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+676,2018,"75,680 kms",First Owner,Diesel,Manual,Hyderabad,11.95 Lakh*,Mahindra,15.1 kmpl,2179 CC,152.87bhp,3750rpm,7,Silver,6 Speed,,,,,,,5,4,4,DOHC,Direct Injection
+677,2020,"40,005 kms",First Owner,Diesel,Manual,Hyderabad,11.95 Lakh*,Hyundai,22.0 kmpl,1582 CC,126.2bhp,4000rpm,5,White,6 Speed,FWD,,,,,,,4,4,DOHC,CRDi
+678,2011,"1,30,000 kms",First Owner,Diesel,Automatic,Hyderabad,11.99 Lakh*,Audi,15.2 kmpl,1968 CC,140.8 bhp,,5,Brown,6 Speed,FWD,,,,,,,,,,
+679,2017,"77,467 kms",First Owner,Diesel,Automatic,Hyderabad,12 Lakh*,Hyundai,17.6 kmpl,1582 CC,126.2bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+680,2017,"72,273 kms",First Owner,Diesel,Automatic,Hyderabad,12 Lakh*,Hyundai,17.01 kmpl,1582 CC,126.2bhp,4000rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+681,2019,"31,247 kms",First Owner,Diesel,Manual,Hyderabad,12 Lakh*,Hyundai,21.38 kmpl,1396 CC,88.7bhp,4000rpm,5,White,6 Speed,,,,,,,5,4,4,DOHC,CRDi
+682,2017,"75,000 kms",First Owner,Diesel,Manual,Hyderabad,12.25 Lakh*,Hyundai,19.67 kmpl,1582 CC,126.2bhp,4000rpm,5,Red,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+683,2011,"1,36,000 kms",First Owner,Diesel,Manual,Hyderabad,12.5 Lakh*,Toyota,11.5 kmpl,2982 CC,171 PS , 3600 rpm,7,White,5 Speed,4WD,,,,176 Kmph,9.6 Seconds,5,4,4,DOHC,Common-Rail type
+684,2011,"97,000 kms",First Owner,Diesel,Automatic,Hyderabad,12.5 Lakh*,Mercedes-Benz,14.84 kmpl,2143 CC,170bhp,3000-4200rpm,5,Black,7 Speed,RWD,,,Solid Disc,228km/hr,8.5 seconds,4,4,4,,Direct Injection
+685,2014,"69,360 kms",First Owner,Diesel,Automatic,Hyderabad,12.5 Lakh*,Skoda,19.3 kmpl,1968 CC,141bhp,4000rpm,5,White,6 Speed,FWD,,,,,,4,4,4,DOHC,Direct Injection
+686,2015,"94,000 kms",First Owner,Diesel,Automatic,Hyderabad,12.5 Lakh*,Skoda,19.3 kmpl,1968 CC,141bhp,4000rpm,5,White,6 Speed,FWD,,,,,,4,4,4,DOHC,Direct Injection
+687,2010,"1,70,000 kms",First Owner,Diesel,Manual,Hyderabad,12.7 Lakh*,Toyota,11.5 kmpl,2982 CC,171 PS , 3600 rpm,7,White,5 Speed,4WD,,,,176 Kmph,9.6 Seconds,5,4,4,DOHC,Common-Rail type
+688,2014,"89,632 kms",First Owner,Diesel,Automatic,Hyderabad,12.75 Lakh*,Skoda,17.2 kmpl,1968 CC,138.1bhp,4200rpm,5,Bronze,6 Speed,,,,,,,4,4,4,DOHC,Direct Injection
+689,2018,"32,450 kms",First Owner,Petrol,Manual,Hyderabad,12.95 Lakh*,Honda,17.14 kmpl,1497 CC,117.6bhp,6600rpm,5,White,5 Speed,FWD,,,,,,4,4,4,SOHC,PGM-Fi
+690,2011,"75,910 kms",First Owner,Diesel,Automatic,Hyderabad,12.95 Lakh*,Mercedes-Benz,14.21 kmpl,2143 CC,203bhp,4200rpm,5,Brown,5 Speed,,,,,,7.5 Seconds,4,4,4,,
+691,2014,"96,000 kms",First Owner,Diesel,Automatic,Hyderabad,12.95 Lakh*,Skoda,17.2 kmpl,1968 CC,138.1bhp,4200rpm,5,Black,6 Speed,,,,,,,4,4,4,DOHC,Direct Injection
+692,2019,"25,000 kms",First Owner,Petrol,Manual,Hyderabad,13 Lakh*,Hyundai,15.8 kmpl,1591 CC,121.3bhp,6400rpm,5,Black,6 Speed,FWD,,,,,,5,4,4,DOHC,MPFI
+693,2015,"1,22,202 kms",First Owner,Diesel,Manual,Hyderabad,13.25 Lakh*,Toyota,12.99 kmpl,2494 CC,100.6bhp,3600rpm,8,Silver,5 Speed,RWD,,,,,,,4,4,DOHC,CRDi
+694,2018,"1,07,000 kms",First Owner,Diesel,Manual,Hyderabad,13.25 Lakh*,Mahindra,16.0 kmpl,1997 CC,140bhp,3750rpm,7,Maroon,6 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+695,2017,"85,000 kms",First Owner,Diesel,Manual,Hyderabad,13.25 Lakh*,Mahindra,16.0 kmpl,2179 CC,140bhp,3750rpm,7,Brown,6 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+696,2011,"75,000 kms",First Owner,Diesel,Automatic,Hyderabad,13.25 Lakh*,Mercedes-Benz,14.21 kmpl,2143 CC,203bhp,4200rpm,5,Brown,5 Speed,,,,,242km/hr,7.5 Seconds,4,4,4,,
+697,2012,"78,900 kms",First Owner,Diesel,Automatic,Hyderabad,13.45 Lakh*,Volvo,18.5 kmpl,1985 CC,163 bhp,,5,Blue,Six Speed Gearbox,All Wheel Drive,,,,,,4,5,4,,
+698,2017,"1,25,000 kms",First Owner,Diesel,Manual,Hyderabad,13.5 Lakh*,Mahindra,16.0 kmpl,2179 CC,140bhp,3750rpm,7,Grey,6 Speed,AWD,,,,,,5,4,4,DOHC,Direct Injection
+699,2018,"1,10,000 kms",First Owner,Diesel,Automatic,Hyderabad,13.75 Lakh*,Hyundai,17.01 kmpl,1582 CC,126.2bhp,4000rpm,5,Silver,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDi
+700,2011,"61,005 kms",First Owner,Diesel,Automatic,Hyderabad,13.95 Lakh*,Jaguar,14.74 kmpl,2993 CC,270.9bhp,4000rpm,5,White,8 Speed,RWD,,,,250 Kmph,6.4 Seconds,4,6,4,DOHC,Direct Injection
+701,2012,"53,000 kms",First Owner,Diesel,Automatic,Hyderabad,13.95 Lakh*,BMW,18.88 kmpl,1995 CC,184bhp,4000rpm,5,Blue,8 Speed,RWD,,,,,,4,4,4,DOHC,CRDi
+702,2015,"99,000 kms",First Owner,Diesel,Automatic,Hyderabad,13.99 Lakh*,Skoda,19.3 kmpl,1968 CC,141bhp,4000rpm,5,Silver,6 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+703,2021,"5,000 kms",First Owner,Diesel,Manual,Hyderabad,13.99 Lakh*,Kia,24.1 kmpl,1493 CC,98.63bhp,4000rpm,5,Grey,6 Speed,FWD,,,,,,,4,4,,CRDi
+704,2017,"42,000 kms",First Owner,Diesel,Manual,Hyderabad,14.45 Lakh*,Mahindra,16.0 kmpl,2179 CC,140bhp,3750rpm,7,White,6 Speed,FWD,,,,,,5,4,4,DOHC,Direct Injection
+705,2020,"29,400 kms",First Owner,Diesel,Manual,Hyderabad,14.5 Lakh*,Kia,20.8 kmpl,1493 CC,113.42 bhp,,5,White,6-Speed,2WD,,,,,,,4,4,DOHC,CRDi
+706,2015,"70,519 kms",First Owner,Diesel,Automatic,Hyderabad,14.5 Lakh*,Audi,20.38 kmpl,1968 CC,143bhp,3500-4000rpm,5,Silver,6 Speed,FWD,,,,,,,4,4,DOHC,CRDi
+707,2017,"44,230 kms",First Owner,Diesel,Manual,Hyderabad,14.5 Lakh*,Mahindra,16.0 kmpl,2179 CC,140bhp,3750rpm,7,Orange,6 Speed,AWD,,,,,,5,4,4,DOHC,Direct Injection
+708,2014,"95,824 kms",First Owner,Diesel,Automatic,Hyderabad,14.5 Lakh*,Volvo,9.0 kmpl,1984 CC,181bhp,4250rpm,5,White,8 Speed,FWD,,,,,,4,4,4,DOHC,CRDI
+709,2014,"67,000 kms",First Owner,Diesel,Automatic,Hyderabad,14.5 Lakh*,Volvo,9.0 kmpl,1984 CC,181bhp,4250rpm,5,Red,8 Speed,FWD,,,,,,4,4,4,DOHC,CRDI
+710,2020,"21,000 kms",First Owner,Diesel,Manual,Hyderabad,14.5 Lakh*,Kia,24.1 kmpl,1493 CC,98.63bhp,4000rpm,5,White,6 Speed,FWD,,,,,,,4,4,,CRDi
+711,2014,"98,400 kms",First Owner,Diesel,Automatic,Hyderabad,14.95 Lakh*,Toyota,12.55 kmpl,2982 CC,168.5bhp,3600rpm,7,Grey,5 Speed,FWD,,,,,,,4,4,DOHC,CRDi
+712,2018,"68,576 kms",First Owner,Diesel,Automatic,Hyderabad,14.96 Lakh*,Hyundai,17.01 kmpl,1582 CC,126.2bhp,4000rpm,5,White,6 Speed,FWD,,,,,10.5 Seconds,5,4,4,DOHC,CRDi
+713,2014,"89,000 kms",First Owner,Petrol,Automatic,Hyderabad,14.99 Lakh*,Mini,16.72 kmpl,1998 CC,189.08bhp,5000-6000rpm,4,Black,7 Speed,2WD,,,,,,,4,4,DOHC,Direct Injection
+714,2012,"95,000 kms",First Owner,Diesel,Automatic,Hyderabad,15 Lakh*,BMW,18.48 kmpl,1995 CC,177 ," 4,000 (PS",5,Black,6 Speed,,,,,,8.3 seconds,4,4,4,,CRDi
+715,2016,"96,200 kms",First Owner,Diesel,Automatic,Hyderabad,15.45 Lakh*,Toyota,11.36 kmpl,2755 CC,171.5 bhp,,7,AVANT GRADE BRONZE,6 Speed,RWD,,,,,,,,,,
+716,2012,"50,000 kms",First Owner,Diesel,Automatic,Hyderabad,15.45 Lakh*,Audi,16.55 kmpl,1968 CC,140,"4,000 (PS",5,White,7 Speed,FWD,,,,,9.7 seconds,4,4,4,DOHC,Direct Injection
+717,2017,"60,000 kms",First Owner,Diesel,Manual,Hyderabad,15.5 Lakh*,Jeep,17.1 kmpl,1956 CC,170bhp,3750rpm,5,White,6 Speed,4X2,,,,,,,4,4,DOHC,CRDI
+718,2017,"1,70,000 kms",First Owner,Diesel,Manual,Hyderabad,15.75 Lakh*,Toyota,13.68 kmpl,2393 CC,147.8bhp,3400rpm,8,White,5 Speed,RWD,,,,,,,4,4,DOHC,Direct Injection
+719,2019,"30,000 kms",First Owner,Diesel,Manual,Hyderabad,16 Lakh*,Mahindra,15.1 kmpl,2179 CC,152.87bhp,3750rpm,7,,6 Speed,FWD,,,,,,,4,4,DOHC,Direct Injection
+720,2012,"65,000 kms",First Owner,Diesel,Automatic,Hyderabad,16 Lakh*,Mercedes-Benz,19.71 kmpl,2143 CC,201.15bhp,3800rpm,5,White,9 Speed,RWD,,,,,,4,4,4,DOHC,CRDi
+721,2017,"53,000 kms",First Owner,Diesel,Manual,Hyderabad,16.35 Lakh*,Toyota,13.68 kmpl,2393 CC,147.51bhp,3400rpm,7,Grey,5 Speed,RWD,,,,,,,4,4,DOHC,CRDi
+722,2015,"67,999 kms",First Owner,Diesel,Automatic,Hyderabad,16.5 Lakh*,Audi,20.38 kmpl,1968 CC,143bhp,3500-4000rpm,5,Silver,6 Speed,FWD,,,,,,,4,4,DOHC,CRDi
+723,2019,"45,123 kms",First Owner,Diesel,Manual,Hyderabad,16.5 Lakh*,Mahindra,15.1 kmpl,2179 CC,152.87bhp,3750rpm,7,Black,6 Speed,,,,,,,,4,4,DOHC,Direct Injection
+724,2019,"22,626 kms",First Owner,Diesel,Manual,Hyderabad,16.5 Lakh*,Mahindra,15.1 kmpl,2179 CC,152.87bhp,3750rpm,7,White,6 Speed,,,,,,,5,4,4,DOHC,Direct Injection
+725,2013,"1,11,500 kms",First Owner,Diesel,Automatic,Hyderabad,16.5 Lakh*,BMW,16.09 kmpl,1995 CC,184bhp,4000rpm,5,Blue,8 Speed,,,,,,8.5 Seconds,5,4,4,,CRDi
+726,2011,"81,247 kms",First Owner,Diesel,Automatic,Hyderabad,16.5 Lakh*,BMW,16.09 kmpl,1995 CC,184bhp,4000rpm,5,Blue,8 Speed,,,,Ventilated Discs,210km/hr,8.5 Seconds,5,4,4,,CRDi
+727,2014,"1,86,421 kms",First Owner,Diesel,Manual,Hyderabad,16.5 Lakh*,Toyota,13.0 kmpl,2982 CC,168.5bhp,3600rpm,7,White,5 Speed,FWD,,,,,,,4,4,DOHC,CRDi
+728,2014,"63,000 kms",First Owner,Diesel,Automatic,Hyderabad,16.95 Lakh*,Volvo,9.0 kmpl,1984 CC,181bhp,4250rpm,5,Red,8 Speed,FWD,,,,,,4,4,4,DOHC,CRDI
+729,2016,"1,25,000 kms",First Owner,Diesel,Manual,Hyderabad,16.99 Lakh*,Toyota,13.68 kmpl,2393 CC,147.8bhp,3400rpm,8,Silver,5 Speed,RWD,,,,,,5,7,4,DOHC,Direct Injection
+730,2019,"54,163 kms",First Owner,Diesel,Manual,Hyderabad,17 Lakh*,Tata,17.0 kmpl,1956 CC,167.63bhp,3750rpm,5,White,6 Speed,FWD,,,,,,5,4,4,DOHC,CRDI
+731,2014,"69,000 kms",First Owner,Diesel,Automatic,Hyderabad,17.5 Lakh*,Audi,17.11 kmpl,1968 CC,174.33 bhp,,5,White,8 Speed,,,,,,,,,,,
+732,2013,"93,000 kms",First Owner,Diesel,Automatic,Hyderabad,17.95 Lakh*,Audi,14.16 kmpl,1968 CC,174.3bhp,4200rpm,5,Grey,7 Speed,,,,,200 Kmph,9.0 Seconds,5,4,4,DOHC,CRDI
+733,2020,"19,000 kms",First Owner,Diesel,Automatic,Hyderabad,18 Lakh*,Mahindra,0.0 kmpl,2184 CC,130bhp,3750rpm,4,Black,6 Speed,4X4,,,,,,,4,4,DOHC,Direct Engine
+734,2014,"65,000 kms",First Owner,Diesel,Automatic,Hyderabad,18.5 Lakh*,BMW,18.88 kmpl,1995 CC,184bhp,4000rpm,5,White,8 Speed,RWD,,,,,,4,4,4,DOHC,CRDi
+735,2010,"82,000 kms",First Owner,Diesel,Automatic,Hyderabad,18.5 Lakh*,Mercedes-Benz,11.5 kmpl,2987 CC,210bhp,4000rpm,5,Grey,7 Speed,RWD,,Ventilated Disc,Ventilated Disc,250km/hr,6.2 Seconds,4,6,4,,
+736,2017,"1,16,000 kms",First Owner,Diesel,Automatic,Hyderabad,18.5 Lakh*,Toyota,11.36 kmpl,2755 CC,171.5bhp,3400rpm,7,White,6 Speed,RWD,,,,,,,4,4,DOHC,Direct Injection
+737,2017,"42,560 kms",First Owner,Diesel,Automatic,Hyderabad,18.5 Lakh*,Toyota,11.36 kmpl,2755 CC,171.5bhp,3400rpm,7,Brown,6 Speed,RWD,,,,,,5,4,4,DOHC,Direct Injection
+738,2021,"1,400 kms",First Owner,Petrol,Automatic,Hyderabad,18.6 Lakh*,Mahindra,0.0 kmpl,1997 CC,150bhp,5000rpm,4,Black,6 Speed,4X4,,,,,,3,4,4,DOHC,Direct Engine
+739,2010,"1,30,000 kms",First Owner,Diesel,Automatic,Hyderabad,18.99 Lakh*,Audi,11.33 kmpl,4134 CC,335.2bhp,4000rpm,7,White,8 Speed,,,,Ventilated Disc,242km/hr,6.4 Seconds,5,8,4,DOHC,Direct Injection
+740,2011,"32,000 kms",First Owner,Diesel,Automatic,Hyderabad,19 Lakh*,BMW,18.48 kmpl,,,,5,White,6 Speed,,Power,Ventilated discs,,,,,,,,
+741,2020,"28,000 kms",First Owner,Petrol,Automatic,Hyderabad,19 Lakh*,MG,13.96 kmpl,1451 CC,141bhp,5000rpm,5,Red,6 Speed,FWD,,,,,,,4,4,,
+742,2015,"75,163 kms",First Owner,Diesel,Automatic,Hyderabad,19.5 Lakh*,Mercedes-Benz,17.9 kmpl,2143 CC,136bhp,3600-4400rpm,5,Silver,7 Speed 7G-DCT,AWD,,,,,,5,4,4,DOHC,CRDi
+743,2019,"59,000 kms",First Owner,Diesel,Manual,Hyderabad,19.85 Lakh*,Toyota,13.68 kmpl,2393 CC,147.8bhp,3400rpm,8,Brown,5 Speed,RWD,,,,,,5,7,4,DOHC,Direct Injection
+744,2010,"84,000 kms",First Owner,Diesel,Automatic,Hyderabad,19.99 Lakh*,Mercedes-Benz,13.5 kmpl,2987 CC,282bhp,4000rpm,5,White,7 Speed,RWD,,,Disc,250 kmph,5.4 Seconds,4,6,4,DOHC,CRDI
+745,2015,"45,000 kms",First Owner,Diesel,Automatic,Hyderabad,21 Lakh*,Audi,17.11 kmpl,1968 CC,174.33bhp,4200rpm,5,White,8 Speed,FWD,,,,,,4,4,4,DOHC,CRDI
+746,2014,"69,000 kms",First Owner,Diesel,Automatic,Hyderabad,21 Lakh*,Mercedes-Benz,15.0 kmpl,2143 CC,204bhp,4200rpm,5,Black,7 Speed,RWD,,,,,,4,4,4,DOHC,CRDI
+747,2014,"48,000 kms",First Owner,Diesel,Automatic,Hyderabad,21 Lakh*,Mercedes-Benz,17.9 kmpl,2143 CC,136bhp,3600-4400rpm,5,Brown,7 Speed 7G-DCT,AWD,,,,,,5,4,4,DOHC,CRDi
+748,2014,"76,411 kms",First Owner,Diesel,Automatic,Hyderabad,21 Lakh*,Mercedes-Benz,17.9 kmpl,2143 CC,136bhp,3600-4400rpm,5,White,7 Speed 7G-DCT,AWD,,,,,,,4,4,DOHC,CRDi
+749,2014,"71,000 kms",First Owner,Diesel,Automatic,Hyderabad,21.45 Lakh*,Jaguar,16.36 kmpl,2179 CC,187.7bhp,3500rpm,5,Violet,8 Speed,RWD,,,,,,4,4,4,DOHC,Direct Injection
+750,2015,"48,000 kms",First Owner,Diesel,Automatic,Hyderabad,21.5 Lakh*,Mini,20.7 kmpl,1496 CC,113.98bhp,4000rpm,4,Blue,6 Speed,2WD,,,,,,3,3,4,,MPFi
+751,2018,"36,200 kms",First Owner,Diesel,Automatic,Hyderabad,21.95 Lakh*,Skoda,19.5 kmpl,1968 CC,141bhp,3500-4000rpm,5,White,6 Speed,FWD,,,,,9.35 Seconds,4,4,4,DOHC,common rail system
+752,2012,"49,000 kms",First Owner,Diesel,Automatic,Hyderabad,23 Lakh*,Jaguar,12.9 kmpl,2993 CC,270.88 bhp,,5,White,8 Speed,AWD,,,,,,,,,,
+753,2019,"79,086 kms",First Owner,Diesel,Manual,Hyderabad,23 Lakh*,Toyota,13.68 kmpl,2393 CC,147.51bhp,3400rpm,7,Red,6 Speed,RWD,,,,,,5,4,4,DOHC,CRDi
+754,2016,"1,28,005 kms",First Owner,Diesel,Automatic,Hyderabad,23 Lakh*,Ford,12.62 kmpl,2198 CC,158bhp,3200rpm,7,Red,6 Speed,FWD,,,,,,,4,4,DOHC,TDCi
